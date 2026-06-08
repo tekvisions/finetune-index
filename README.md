@@ -4,7 +4,7 @@ A living index of **LLM fine-tuning & post-training tooling** — frameworks, PE
 and training data — ranked by **momentum** (stars, push-recency, rising-newness) from live GitHub
 signals.
 
-Live: https://finetune-index.vercel.app · part of [The Living Indexes](https://living-indexes.vercel.app)
+Live: https://finetune.kymatalabs.com · part of [The Living Indexes](https://indexes.kymatalabs.com)
 
 ## How it works (self-updating)
 

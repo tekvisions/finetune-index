@@ -9,7 +9,7 @@ import os
 import shutil
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-SITE_URL = "https://finetune-index.vercel.app"
+SITE_URL = "https://finetune.kymatalabs.com"
 P_DIR = os.path.join(HERE, "p")
 
 
@@ -92,7 +92,7 @@ def page(it: dict, related: list[dict]) -> str:
 </main>
 <footer><div class="wrap foot-row">
   <div class="blurb">The Fine-Tuning Index is a self-updating forge log, recomputed daily from live GitHub signals.</div>
-  <div class="links"><a href="/">All tools</a><a href="/rss.xml">RSS</a><a href="https://living-indexes.vercel.app" target="_blank" rel="noopener">↗ The Living Indexes</a></div>
+  <div class="links"><a href="/">All tools</a><a href="/rss.xml">RSS</a><a href="https://indexes.kymatalabs.com" target="_blank" rel="noopener">↗ The Living Indexes</a></div>
 </div></footer>
 <script>document.getElementById('theme').addEventListener('click',function(){{var c=document.documentElement.getAttribute('data-theme')==='dark'?'light':'dark';document.documentElement.setAttribute('data-theme',c);try{{localStorage.setItem('ft-theme',c)}}catch(e){{}}}});</script>
 </body>
