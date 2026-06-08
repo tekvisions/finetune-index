@@ -3,7 +3,7 @@
 > The living index of LLM fine-tuning & post-training tooling — frameworks, PEFT/LoRA,
 > RLHF/DPO and training data — ranked daily by GitHub momentum.
 
-Updated: 2026-06-08T05:21:49.020168+00:00
+Updated: 2026-06-08T05:28:19.710544+00:00
 Tools indexed: 174
 
 ## Top fine-tuning tools by momentum
