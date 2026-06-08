@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Fine-Tuning Index — every LLM fine-tuning tool, ranked by momentum</title>
+<meta name="description" content="A living index of LLM fine-tuning and post-training tooling — frameworks, PEFT/LoRA, RLHF/DPO, and training data — ranked daily by momentum from live GitHub signals.">
+<link rel="canonical" href="https://finetune-index.vercel.app/">
+<meta name="robots" content="index,follow">
+<meta name="keywords" content="fine-tuning llm, lora, qlora, peft, rlhf, dpo, llm training, instruction tuning, post-training, unsloth, llamafactory, axolotl">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://finetune-index.vercel.app/">
+<meta property="og:title" content="The Fine-Tuning Index — every LLM fine-tuning tool, ranked by momentum">
+<meta property="og:description" content="A living index of LLM fine-tuning & post-training tooling — PEFT, LoRA, RLHF, trainers — ranked daily from live GitHub signals.">
+<meta property="og:image" content="https://finetune-index.vercel.app/og.png">
+<meta property="og:site_name" content="The Fine-Tuning Index">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="The Fine-Tuning Index — make your own model">
+<meta name="twitter:description" content="A living index of LLM fine-tuning tooling, ranked daily by momentum.">
+<meta name="twitter:image" content="https://finetune-index.vercel.app/og.png">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="The Fine-Tuning Index" href="/rss.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+<script type="application/ld+json">
+{ "@context": "https://schema.org", "@type": "WebSite", "name": "The Fine-Tuning Index",
+  "url": "https://finetune-index.vercel.app/",
+  "description": "A living index of LLM fine-tuning and post-training tooling, ranked by momentum from live GitHub signals.",
+  "publisher": { "@type": "Organization", "name": "The Fine-Tuning Index" } }
+</script>
+</head>
+<body>
+<header><div class="wrap head-row">
+  <div class="brand disp">FINE&#8209;TUNING<span class="bolt">/</span>INDEX</div>
+  <div class="head-actions">
+    <a href="/rss.xml">RSS</a><a href="/llms.txt">llms.txt</a>
+    <a href="https://github.com/tekvisions" target="_blank" rel="noopener">GitHub</a>
+    <button class="theme-btn" id="theme" aria-label="Toggle theme">◐</button>
+  </div>
+</div></header>
+
+<main>
+  <section class="hero"><div class="wrap">
+    <div class="kicker">Recomputed daily from live GitHub signals</div>
+    <h1>Forge your <mark>own</mark> model.</h1>
+    <p class="lede">The living index of LLM fine-tuning &amp; post-training tooling — frameworks, PEFT/LoRA, RLHF/DPO, and training data — ranked by momentum, not marketing.</p>
+    <div class="stats">
+      <div class="stat"><div class="num disp" id="s-count">0</div><div class="lbl">tools indexed</div></div>
+      <div class="stat"><div class="num disp" id="s-cats">0</div><div class="lbl">categories</div></div>
+      <div class="stat"><div class="num disp" id="s-top">—</div><div class="lbl">top momentum</div></div>
+    </div>
+  </div></section>
+
+  <section class="toolbar"><div class="wrap">
+    <div class="search-row">
+      <label class="search">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+        <input id="q" type="search" placeholder="search fine-tuning tools, owners, topics…" autocomplete="off" spellcheck="false">
+      </label>
+      <div class="sort" id="sort">
+        <button data-sort="momentum" class="active">Momentum</button>
+        <button data-sort="stars">Stars</button>
+        <button data-sort="new">Newest</button>
+      </div>
+    </div>
+    <div class="chips" id="chips"></div>
+  </div></section>
+
+  <div class="wrap">
+    <div class="meta-line" id="metaline">loading the index…</div>
+    <div class="grid" id="grid"></div>
+  </div>
+</main>
+
+<footer><div class="wrap foot-row">
+  <div>
+    <div class="blurb">The Fine-Tuning Index is a self-updating forge log. Every day a GitHub Action recomputes each tool's momentum — stars, push-recency, and how fast it's rising — and republishes.</div>
+    <div class="updated" id="foot-updated"></div>
+  </div>
+  <div class="links">
+    <a href="/sitemap.xml">Sitemap</a><a href="/rss.xml">RSS feed</a>
+    <a href="/llms.txt">llms.txt</a>
+    <a href="https://living-indexes.vercel.app" target="_blank" rel="noopener">↗ The Living Indexes</a>
+    <a href="https://github.com/tekvisions" target="_blank" rel="noopener">Built by tekvisions →</a>
+  </div>
+</div></footer>
+
+<script src="/app.js"></script>
+</body>
+</html>

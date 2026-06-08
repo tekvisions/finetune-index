@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>datawhalechina/post-training-of-llms — Fine-Tuning Tools | The Fine-Tuning Index</title>
+<meta name="description" content="本项目是一个围绕 DeepLearning.AI 出品的 Post-Training for LLMs 系列课程，为国内学习者量身打造的中文翻译与知识整理教程。项目提供课程内容翻译、知识点梳理和示例代码等内容，旨在降低语言门槛，让更多学生、研究人员和开发者系统掌握大语言模型（LLM）后训练阶段的核心技术与实践方法。">
+<link rel="canonical" href="https://finetune-index.vercel.app/p/datawhalechina-post-training-of-llms/">
+<meta name="robots" content="index,follow">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://finetune-index.vercel.app/p/datawhalechina-post-training-of-llms/">
+<meta property="og:title" content="datawhalechina/post-training-of-llms — The Fine-Tuning Index">
+<meta property="og:description" content="本项目是一个围绕 DeepLearning.AI 出品的 Post-Training for LLMs 系列课程，为国内学习者量身打造的中文翻译与知识整理教程。项目提供课程内容翻译、知识点梳理和示例代码等内容，旨在降低语言门槛，让更多学生、研究人员和开发者系统掌握大语言模型（LLM）后训练阶段的核心技术与实践方法。">
+<meta property="og:image" content="https://finetune-index.vercel.app/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareSourceCode", "name": "datawhalechina/post-training-of-llms", "description": "\u672c\u9879\u76ee\u662f\u4e00\u4e2a\u56f4\u7ed5 DeepLearning.AI \u51fa\u54c1\u7684 Post-Training for LLMs \u7cfb\u5217\u8bfe\u7a0b\uff0c\u4e3a\u56fd\u5185\u5b66\u4e60\u8005\u91cf\u8eab\u6253\u9020\u7684\u4e2d\u6587\u7ffb\u8bd1\u4e0e\u77e5\u8bc6\u6574\u7406\u6559\u7a0b\u3002\u9879\u76ee\u63d0\u4f9b\u8bfe\u7a0b\u5185\u5bb9\u7ffb\u8bd1\u3001\u77e5\u8bc6\u70b9\u68b3\u7406\u548c\u793a\u4f8b\u4ee3\u7801\u7b49\u5185\u5bb9\uff0c\u65e8\u5728\u964d\u4f4e\u8bed\u8a00\u95e8\u69db\uff0c\u8ba9\u66f4\u591a\u5b66\u751f\u3001\u7814\u7a76\u4eba\u5458\u548c\u5f00\u53d1\u8005\u7cfb\u7edf\u638c\u63e1\u5927\u8bed\u8a00\u6a21\u578b\uff08LLM\uff09\u540e\u8bad\u7ec3\u9636\u6bb5\u7684\u6838\u5fc3\u6280\u672f\u4e0e\u5b9e\u8df5\u65b9\u6cd5\u3002", "url": "https://finetune-index.vercel.app/p/datawhalechina-post-training-of-llms/", "codeRepository": "https://github.com/datawhalechina/post-training-of-llms", "programmingLanguage": "Jupyter Notebook", "author": {"@type": "Person", "name": "datawhalechina"}, "license": ""}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "The Fine-Tuning Index", "item": "https://finetune-index.vercel.app/"}, {"@type": "ListItem", "position": 2, "name": "datawhalechina/post-training-of-llms", "item": "https://finetune-index.vercel.app/p/datawhalechina-post-training-of-llms/"}]}</script>
+<script>var t;try{t=localStorage.getItem('ft-theme')}catch(e){}if(t)document.documentElement.setAttribute('data-theme',t);</script>
+</head>
+<body>
+<header><div class="wrap head-row">
+  <div class="brand disp"><a href="/" style="text-decoration:none;color:inherit">FINE&#8209;TUNING<span class="bolt">/</span>INDEX</a></div>
+  <div class="head-actions"><a href="/">← All tools</a><button class="theme-btn" id="theme" aria-label="Toggle theme">◐</button></div>
+</div></header>
+<main class="wrap detail">
+  <div class="crumb"><a href="/">The Fine-Tuning Index</a> / Fine-Tuning Tools / #111</div>
+  <h1 class="disp">datawhalechina/post-training-of-llms</h1>
+  <div class="sub">by datawhalechina · Fine-Tuning Tools · updated 5mo ago</div>
+  <p class="desc-big">本项目是一个围绕 DeepLearning.AI 出品的 Post-Training for LLMs 系列课程，为国内学习者量身打造的中文翻译与知识整理教程。项目提供课程内容翻译、知识点梳理和示例代码等内容，旨在降低语言门槛，让更多学生、研究人员和开发者系统掌握大语言模型（LLM）后训练阶段的核心技术与实践方法。</p>
+  <div class="detail-stats">
+    <div class="box"><div class="num disp">31</div><div class="lbl">momentum</div></div>
+    <div class="box"><div class="num disp">214</div><div class="lbl">stars</div></div>
+    <div class="box"><div class="num disp">33</div><div class="lbl">forks</div></div>
+    <div class="box"><div class="num disp">#111</div><div class="lbl">rank</div></div>
+  </div>
+  <div class="topics"></div>
+  <a class="cta" href="https://github.com/datawhalechina/post-training-of-llms" target="_blank" rel="noopener">View on GitHub →</a>
+  <div class="related"><h2 class="disp">More in Fine-Tuning Tools</h2><div class="grid"><a class="card in" href="/p/flyteorg-flyte/"><div class="card-body"><div class="card-top"><span class="rank disp">09</span><span class="cat">Fine-Tuning Tools</span></div><div class="name disp">flyte</div><div class="desc">Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI </div></div></a><a class="card in" href="/p/vllm-project-semantic-router/"><div class="card-body"><div class="card-top"><span class="rank disp">14</span><span class="cat">Fine-Tuning Tools</span></div><div class="name disp">semantic-router</div><div class="desc">System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge</div></div></a><a class="card in" href="/p/bghira-simpletuner/"><div class="card-body"><div class="card-top"><span class="rank disp">18</span><span class="cat">Fine-Tuning Tools</span></div><div class="name disp">SimpleTuner</div><div class="desc">A general fine-tuning kit geared toward image/video/audio diffusion models.</div></div></a><a class="card in" href="/p/roboflow-maestro/"><div class="card-body"><div class="card-top"><span class="rank disp">20</span><span class="cat">Fine-Tuning Tools</span></div><div class="name disp">maestro</div><div class="desc">streamline the fine-tuning process for multimodal models: PaliGemma 2, Florence-2, and Qwe</div></div></a></div></div>
+</main>
+<footer><div class="wrap foot-row">
+  <div class="blurb">The Fine-Tuning Index is a self-updating forge log, recomputed daily from live GitHub signals.</div>
+  <div class="links"><a href="/">All tools</a><a href="/rss.xml">RSS</a><a href="https://living-indexes.vercel.app" target="_blank" rel="noopener">↗ The Living Indexes</a></div>
+</div></footer>
+<script>document.getElementById('theme').addEventListener('click',function(){var c=document.documentElement.getAttribute('data-theme')==='dark'?'light':'dark';document.documentElement.setAttribute('data-theme',c);try{localStorage.setItem('ft-theme',c)}catch(e){}});</script>
+</body>
+</html>

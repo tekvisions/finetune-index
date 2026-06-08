@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://finetune-index.vercel.app/sitemap.xml
