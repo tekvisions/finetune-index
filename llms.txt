@@ -3,48 +3,48 @@
 > The living index of LLM fine-tuning & post-training tooling — frameworks, PEFT/LoRA,
 > RLHF/DPO and training data — ranked daily by GitHub momentum.
 
-Updated: 2026-07-21T11:17:21.422631+00:00
+Updated: 2026-07-22T11:18:10.859343+00:00
 Tools indexed: 179
 
 ## Top fine-tuning tools by momentum
 
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) — momentum 87, ⭐68643 — RLHF & Preference — Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi, GLM and other model
-- [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) — momentum 86, ⭐73418 — RLHF & Preference — Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
-- [huggingface/peft](https://github.com/huggingface/peft) — momentum 81, ⭐21425 — PEFT & LoRA — 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
-- [modelscope/ms-swift](https://github.com/modelscope/ms-swift) — momentum 79, ⭐14883 — RLHF & Preference — Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-V4, GLM-5.1, InternLM3, 
-- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) — momentum 78, ⭐12396 — RLHF & Preference — Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud
-- [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) — momentum 78, ⭐12221 — Training Frameworks — Go ahead and axolotl questions
-- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) — momentum 78, ⭐11743 — Training Frameworks — Low-code framework for building custom LLMs, neural networks, and other AI models
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) — momentum 87, ⭐68718 — RLHF & Preference — Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi, GLM and other model
+- [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) — momentum 86, ⭐73444 — RLHF & Preference — Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+- [huggingface/peft](https://github.com/huggingface/peft) — momentum 81, ⭐21432 — PEFT & LoRA — 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
+- [modelscope/ms-swift](https://github.com/modelscope/ms-swift) — momentum 79, ⭐14899 — RLHF & Preference — Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-V4, GLM-5.1, InternLM3, 
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) — momentum 78, ⭐12397 — RLHF & Preference — Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud
+- [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) — momentum 78, ⭐12231 — Training Frameworks — Go ahead and axolotl questions
+- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) — momentum 78, ⭐11744 — Training Frameworks — Low-code framework for building custom LLMs, neural networks, and other AI models
 - [oumi-ai/oumi](https://github.com/oumi-ai/oumi) — momentum 77, ⭐9363 — RLHF & Preference — Easily fine-tune, evaluate and deploy Gemma 4, Qwen3.5, Qwen3.6, gpt-oss, DeepSeek-R1, or any open s
-- [THUDM/slime](https://github.com/THUDM/slime) — momentum 76, ⭐7568 — Training Frameworks — slime is an LLM post-training framework for RL Scaling.
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) — momentum 76, ⭐7146 — Fine-Tuning Tools — Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
-- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) — momentum 74, ⭐5001 — Fine-Tuning Tools — Intelligent Mixture-of-Models Router for Efficient Heterogeneous LLMs Inference
-- [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) — momentum 74, ⭐4968 — RLHF & Preference — Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data g
-- [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) — momentum 73, ⭐5041 — Training Frameworks — H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.a
-- [Nerogar/OneTrainer](https://github.com/Nerogar/OneTrainer) — momentum 71, ⭐3122 — PEFT & LoRA — OneTrainer is a one-stop solution for all your Diffusion training needs.
-- [bghira/SimpleTuner](https://github.com/bghira/SimpleTuner) — momentum 71, ⭐2880 — Fine-Tuning Tools — A general fine-tuning kit geared toward image/video/audio diffusion models.
-- [FurkanGozukara/Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion) — momentum 71, ⭐2740 — PEFT & LoRA — FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge Web
-- [roboflow/maestro](https://github.com/roboflow/maestro) — momentum 71, ⭐2687 — Fine-Tuning Tools — streamline the fine-tuning process for multimodal models: PaliGemma 2, Florence-2, and Qwen2.5-VL
-- [google/tunix](https://github.com/google/tunix) — momentum 70, ⭐2378 — Fine-Tuning Tools — A Lightweight LLM Post-Training Library
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) — momentum 76, ⭐7147 — Fine-Tuning Tools — Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
+- [THUDM/slime](https://github.com/THUDM/slime) — momentum 75, ⭐7589 — Training Frameworks — slime is an LLM post-training framework for RL Scaling.
+- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) — momentum 74, ⭐5010 — Fine-Tuning Tools — Intelligent Mixture-of-Models Router for Efficient Heterogeneous LLMs Inference
+- [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) — momentum 74, ⭐4971 — RLHF & Preference — Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data g
+- [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) — momentum 72, ⭐5042 — Training Frameworks — H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.a
+- [Nerogar/OneTrainer](https://github.com/Nerogar/OneTrainer) — momentum 71, ⭐3126 — PEFT & LoRA — OneTrainer is a one-stop solution for all your Diffusion training needs.
+- [bghira/SimpleTuner](https://github.com/bghira/SimpleTuner) — momentum 71, ⭐2881 — Fine-Tuning Tools — A general fine-tuning kit geared toward image/video/audio diffusion models.
+- [FurkanGozukara/Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion) — momentum 70, ⭐2740 — PEFT & LoRA — FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge Web
+- [roboflow/maestro](https://github.com/roboflow/maestro) — momentum 70, ⭐2687 — Fine-Tuning Tools — streamline the fine-tuning process for multimodal models: PaliGemma 2, Florence-2, and Qwen2.5-VL
+- [google/tunix](https://github.com/google/tunix) — momentum 70, ⭐2381 — Fine-Tuning Tools — A Lightweight LLM Post-Training Library
 - [AI-Hypercomputer/maxtext](https://github.com/AI-Hypercomputer/maxtext) — momentum 70, ⭐2365 — Fine-Tuning Tools — A simple, performant, and scalable Jax LLM!
-- [amitshekhariitbhu/ai-engineering-interview-questions](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions) — momentum 70, ⭐2226 — Quantize & Merge — Your Cheat Sheet for AI Engineering Interview – Questions and Answers.
-- [dstackai/dstack](https://github.com/dstackai/dstack) — momentum 70, ⭐2187 — Fine-Tuning Tools — Vendor-agnostic orchestration for training, inference and agentic workloads across NVIDIA, AMD, TPU,
+- [amitshekhariitbhu/ai-engineering-interview-questions](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions) — momentum 70, ⭐2232 — Quantize & Merge — Your Cheat Sheet for AI Engineering Interview – Questions and Answers.
+- [dstackai/dstack](https://github.com/dstackai/dstack) — momentum 70, ⭐2189 — Fine-Tuning Tools — Vendor-agnostic orchestration for training, inference and agentic workloads across NVIDIA, AMD, TPU,
 - [kubeflow/trainer](https://github.com/kubeflow/trainer) — momentum 70, ⭐2152 — Training Frameworks — Distributed AI Model Training and LLM Fine-Tuning on Kubernetes
-- [pykeio/ort](https://github.com/pykeio/ort) — momentum 69, ⭐2412 — Fine-Tuning Tools — Fast ML inference & training for ONNX models in Rust
-- [radixark/miles](https://github.com/radixark/miles) — momentum 69, ⭐1761 — RLHF & Preference — Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked
+- [pykeio/ort](https://github.com/pykeio/ort) — momentum 69, ⭐2414 — Fine-Tuning Tools — Fast ML inference & training for ONNX models in Rust
+- [radixark/miles](https://github.com/radixark/miles) — momentum 69, ⭐1764 — RLHF & Preference — Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked
 - [DaoyuanLi2816/can-i-finetune-this](https://github.com/DaoyuanLi2816/can-i-finetune-this) — momentum 69, ⭐790 — PEFT & LoRA — Estimate whether a Hugging Face model fits and fine-tunes on your local GPU.
-- [Saivineeth147/lora-speedrun](https://github.com/Saivineeth147/lora-speedrun) — momentum 68, ⭐124 — PEFT & LoRA — Speedrunning LoRA fine-tuning: frozen task, frozen hardware, public wall-clock leaderboard. modded-n
-- [ModelCloud/GPTQModel](https://github.com/ModelCloud/GPTQModel) — momentum 67, ⭐1210 — RLHF & Preference — LLM model quantization (compression) toolkit with HW acceleration support for Nvidia, AMD, Intel GPU
+- [Saivineeth147/lora-speedrun](https://github.com/Saivineeth147/lora-speedrun) — momentum 69, ⭐134 — PEFT & LoRA — Speedrunning LoRA fine-tuning: frozen task, frozen hardware, public wall-clock leaderboard. modded-n
+- [ModelCloud/GPTQModel](https://github.com/ModelCloud/GPTQModel) — momentum 67, ⭐1211 — RLHF & Preference — LLM model quantization (compression) toolkit with HW acceleration support for Nvidia, AMD, Intel GPU
 - [Goekdeniz-Guelmez/MLX-LoRA-Studio](https://github.com/Goekdeniz-Guelmez/MLX-LoRA-Studio) — momentum 67, ⭐250 — RLHF & Preference — A native Mac App for LLM fine-tuning on Apple Silicon — fully on-device, fully open source.
-- [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT) — momentum 66, ⭐5639 — RLHF & Preference — MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现了包括增量预训练(P
-- [vllm-project/vime](https://github.com/vllm-project/vime) — momentum 66, ⭐379 — Training Frameworks — An LLM post-training framework with vLLM for RL Scaling
-- [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) — momentum 65, ⭐14676 — Training Data — A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval
-- [agentscope-ai/Trinity-RFT](https://github.com/agentscope-ai/Trinity-RFT) — momentum 64, ⭐669 — RLHF & Preference — Trinity-RFT is a general-purpose, flexible and scalable framework designed for reinforcement fine-tu
+- [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT) — momentum 66, ⭐5645 — RLHF & Preference — MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现了包括增量预训练(P
+- [vllm-project/vime](https://github.com/vllm-project/vime) — momentum 66, ⭐380 — Training Frameworks — An LLM post-training framework with vLLM for RL Scaling
+- [Enping-Hu/minimind-deep-dive](https://github.com/Enping-Hu/minimind-deep-dive) — momentum 66, ⭐164 — RLHF & Preference — 从 MiniMind 源码读起,再延伸到现代大模型技术体系的中文学习笔记。主线逐行精读预训练 / SFT / DPO / PPO / GRPO 与训练机制;附录 17 篇进阶卷覆盖量化、投机解码、RL
+- [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) — momentum 65, ⭐14684 — Training Data — A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval
+- [agentscope-ai/Trinity-RFT](https://github.com/agentscope-ai/Trinity-RFT) — momentum 64, ⭐672 — RLHF & Preference — Trinity-RFT is a general-purpose, flexible and scalable framework designed for reinforcement fine-tu
 - [SmartFlowAI/EmoLLM](https://github.com/SmartFlowAI/EmoLLM) — momentum 63, ⭐1762 — Training Data — 心理健康大模型 (LLM x Mental Health), Pre & Post-training & Dataset & Evaluation & Depoly & RAG,  with Inte
 - [ZebangCheng/Emotion-LLaMA](https://github.com/ZebangCheng/Emotion-LLaMA) — momentum 63, ⭐604 — Fine-Tuning Tools — Emotion-LLaMA: Multimodal Emotion Recognition and Reasoning with Instruction Tuning
-- [kaito-project/aikit](https://github.com/kaito-project/aikit) — momentum 63, ⭐534 — Fine-Tuning Tools — 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [baidu-baige/LoongForge](https://github.com/baidu-baige/LoongForge) — momentum 63, ⭐315 — PEFT & LoRA — A modular, scalable, high-performance training framework for LLMs, VLMs, diffusion, and embodied mod
-- [ARahim3/mlx-tune](https://github.com/ARahim3/mlx-tune) — momentum 62, ⭐1366 — RLHF & Preference — Fine-tune LLMs on your Mac with Apple Silicon. SFT, DPO, GRPO, Vision, TTS, STT, Embedding, and OCR 
-- [Enping-Hu/minimind-deep-dive](https://github.com/Enping-Hu/minimind-deep-dive) — momentum 62, ⭐109 — RLHF & Preference — 从 MiniMind 源码读起,再延伸到现代大模型技术体系的中文学习笔记。主线逐行精读预训练 / SFT / DPO / PPO / GRPO 与训练机制;附录 17 篇进阶卷覆盖量化、投机解码、RL
+- [ARahim3/mlx-tune](https://github.com/ARahim3/mlx-tune) — momentum 62, ⭐1365 — RLHF & Preference — Fine-tune LLMs on your Mac with Apple Silicon. SFT, DPO, GRPO, Vision, TTS, STT, Embedding, and OCR 
+- [kaito-project/aikit](https://github.com/kaito-project/aikit) — momentum 62, ⭐534 — Fine-Tuning Tools — 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [RenBing-Sumeru/Awesome-LLM-Reasoning-Data](https://github.com/RenBing-Sumeru/Awesome-LLM-Reasoning-Data) — momentum 62, ⭐108 — Training Frameworks — A curated atlas of post-training reasoning data, verifiers, and recipes. Based on the paper: A Prime
-- [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets) — momentum 59, ⭐4702 — Training Data — Curated list of datasets and tools for post-training.
+- [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets) — momentum 59, ⭐4703 — Training Data — Curated list of datasets and tools for post-training.
