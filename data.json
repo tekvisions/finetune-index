@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-16T14:10:49.290263+00:00",
- "count": 186,
+ "generated_at": "2026-09-17T14:16:21.554598+00:00",
+ "count": 188,
  "categories": [
   {
    "name": "PEFT & LoRA",
@@ -8,7 +8,7 @@
   },
   {
    "name": "RLHF & Preference",
-   "count": 57
+   "count": 58
   },
   {
    "name": "Fine-Tuning Tools",
@@ -32,7 +32,7 @@
   },
   {
    "name": "Distillation",
-   "count": 1
+   "count": 2
   }
  ],
  "items": [
@@ -43,12 +43,12 @@
    "url": "https://github.com/unslothai/unsloth",
    "owner": "unslothai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/150920049?v=4",
-   "stars": 76228,
-   "forks": 6945,
-   "open_issues": 1250,
+   "stars": 76289,
+   "forks": 6954,
+   "open_issues": 1220,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-09-16T14:10:09Z",
+   "pushed_at": "2026-09-17T14:13:09Z",
    "created_at": "2023-11-29T16:50:09Z",
    "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.",
    "topics": [
@@ -84,9 +84,9 @@
    "url": "https://github.com/hiyouga/LlamaFactory",
    "owner": "hiyouga",
    "owner_avatar": "https://avatars.githubusercontent.com/u/16256802?v=4",
-   "stars": 74813,
+   "stars": 74831,
    "forks": 9166,
-   "open_issues": 1154,
+   "open_issues": 1156,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-09-14T08:09:48Z",
@@ -115,7 +115,7 @@
     "transformers"
    ],
    "category": "RLHF & Preference",
-   "momentum": 87,
+   "momentum": 86,
    "rank": 2
   },
   {
@@ -125,12 +125,12 @@
    "url": "https://github.com/huggingface/peft",
    "owner": "huggingface",
    "owner_avatar": "https://avatars.githubusercontent.com/u/25720743?v=4",
-   "stars": 21686,
+   "stars": 21690,
    "forks": 2507,
    "open_issues": 81,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-09-16T09:03:17Z",
+   "pushed_at": "2026-09-17T10:52:40Z",
    "created_at": "2022-11-25T03:51:09Z",
    "description": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.",
    "topics": [
@@ -156,12 +156,12 @@
    "url": "https://github.com/modelscope/ms-swift",
    "owner": "modelscope",
    "owner_avatar": "https://avatars.githubusercontent.com/u/109945100?v=4",
-   "stars": 15646,
-   "forks": 1683,
-   "open_issues": 586,
+   "stars": 15656,
+   "forks": 1684,
+   "open_issues": 589,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-09-16T13:46:25Z",
+   "pushed_at": "2026-09-17T13:20:06Z",
    "created_at": "2023-08-01T15:06:39Z",
    "description": "Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-V4, GLM-5.1, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Gemma4, Llava, Phi4, ...) (AAAI 2025).",
    "topics": [
@@ -197,8 +197,8 @@
    "url": "https://github.com/bentoml/OpenLLM",
    "owner": "bentoml",
    "owner_avatar": "https://avatars.githubusercontent.com/u/49176046?v=4",
-   "stars": 12534,
-   "forks": 840,
+   "stars": 12536,
+   "forks": 841,
    "open_issues": 17,
    "language": "Python",
    "license": "Apache-2.0",
@@ -236,12 +236,12 @@
    "url": "https://github.com/axolotl-ai-cloud/axolotl",
    "owner": "axolotl-ai-cloud",
    "owner_avatar": "https://avatars.githubusercontent.com/u/167502477?v=4",
-   "stars": 12478,
+   "stars": 12481,
    "forks": 1436,
-   "open_issues": 240,
+   "open_issues": 242,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-09-16T07:35:28Z",
+   "pushed_at": "2026-09-17T06:03:27Z",
    "created_at": "2023-04-14T04:25:47Z",
    "description": "Go ahead and axolotl questions",
    "topics": [
@@ -259,7 +259,7 @@
    "url": "https://github.com/ludwig-ai/ludwig",
    "owner": "ludwig-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/65477820?v=4",
-   "stars": 11757,
+   "stars": 11758,
    "forks": 1216,
    "open_issues": 1,
    "language": "Python",
@@ -290,7 +290,7 @@
     "pytorch"
    ],
    "category": "Training Frameworks",
-   "momentum": 78,
+   "momentum": 77,
    "rank": 7
   },
   {
@@ -302,10 +302,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/167452922?v=4",
    "stars": 9387,
    "forks": 790,
-   "open_issues": 34,
+   "open_issues": 35,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-09-16T04:11:43Z",
+   "pushed_at": "2026-09-17T05:48:42Z",
    "created_at": "2024-05-07T17:45:15Z",
    "description": "Easily fine-tune, evaluate and deploy Qwen, Gemma, or any open weight LLM!",
    "topics": [
@@ -336,12 +336,12 @@
    "url": "https://github.com/flyteorg/flyte",
    "owner": "flyteorg",
    "owner_avatar": "https://avatars.githubusercontent.com/u/35380635?v=4",
-   "stars": 7502,
+   "stars": 7521,
    "forks": 887,
    "open_issues": 176,
    "language": "Go",
    "license": "Apache-2.0",
-   "pushed_at": "2026-09-16T09:24:14Z",
+   "pushed_at": "2026-09-17T04:55:48Z",
    "created_at": "2019-10-21T17:40:04Z",
    "description": "Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.",
    "topics": [
@@ -377,12 +377,12 @@
    "url": "https://github.com/MakazhanAlpamys/Soup",
    "owner": "MakazhanAlpamys",
    "owner_avatar": "https://avatars.githubusercontent.com/u/188336071?v=4",
-   "stars": 6665,
-   "forks": 1045,
-   "open_issues": 137,
+   "stars": 6745,
+   "forks": 1056,
+   "open_issues": 133,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-09-16T11:01:49Z",
+   "pushed_at": "2026-09-17T14:14:03Z",
    "created_at": "2026-02-20T11:05:01Z",
    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
    "topics": [
@@ -418,9 +418,9 @@
    "url": "https://github.com/THUDM/slime",
    "owner": "THUDM",
    "owner_avatar": "https://avatars.githubusercontent.com/u/48590610?v=4",
-   "stars": 8486,
-   "forks": 1254,
-   "open_issues": 496,
+   "stars": 8493,
+   "forks": 1258,
+   "open_issues": 497,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-09-03T11:54:49Z",
@@ -438,8 +438,8 @@
    "url": "https://github.com/shibing624/MedicalGPT",
    "owner": "shibing624",
    "owner_avatar": "https://avatars.githubusercontent.com/u/10249622?v=4",
-   "stars": 5816,
-   "forks": 795,
+   "stars": 5820,
+   "forks": 797,
    "open_issues": 6,
    "language": "Python",
    "license": "Apache-2.0",
@@ -460,18 +460,52 @@
    "rank": 12
   },
   {
+   "name": "h2o-llmstudio",
+   "full_name": "h2oai/h2o-llmstudio",
+   "slug": "h2oai-h2o-llmstudio",
+   "url": "https://github.com/h2oai/h2o-llmstudio",
+   "owner": "h2oai",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/1402695?v=4",
+   "stars": 5182,
+   "forks": 558,
+   "open_issues": 36,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-09-17T10:17:42Z",
+   "created_at": "2023-04-17T17:56:33Z",
+   "description": "H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/",
+   "topics": [
+    "ai",
+    "chatbot",
+    "chatgpt",
+    "fedramp",
+    "fine-tuning",
+    "finetuning",
+    "generative",
+    "generative-ai",
+    "gpt",
+    "llama",
+    "llama2",
+    "llm",
+    "llm-training"
+   ],
+   "category": "Training Frameworks",
+   "momentum": 74,
+   "rank": 13
+  },
+  {
    "name": "Kiln",
    "full_name": "Kiln-AI/Kiln",
    "slug": "kiln-ai-kiln",
    "url": "https://github.com/Kiln-AI/Kiln",
    "owner": "Kiln-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/178670964?v=4",
-   "stars": 5072,
+   "stars": 5071,
    "forks": 380,
-   "open_issues": 75,
+   "open_issues": 73,
    "language": "Python",
    "license": "NOASSERTION",
-   "pushed_at": "2026-09-16T14:01:25Z",
+   "pushed_at": "2026-09-17T09:58:41Z",
    "created_at": "2024-07-23T23:10:13Z",
    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.",
    "topics": [
@@ -498,40 +532,6 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 74,
-   "rank": 13
-  },
-  {
-   "name": "h2o-llmstudio",
-   "full_name": "h2oai/h2o-llmstudio",
-   "slug": "h2oai-h2o-llmstudio",
-   "url": "https://github.com/h2oai/h2o-llmstudio",
-   "owner": "h2oai",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/1402695?v=4",
-   "stars": 5182,
-   "forks": 558,
-   "open_issues": 36,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-09-08T11:15:24Z",
-   "created_at": "2023-04-17T17:56:33Z",
-   "description": "H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/",
-   "topics": [
-    "ai",
-    "chatbot",
-    "chatgpt",
-    "fedramp",
-    "fine-tuning",
-    "finetuning",
-    "generative",
-    "generative-ai",
-    "gpt",
-    "llama",
-    "llama2",
-    "llm",
-    "llm-training"
-   ],
-   "category": "Training Frameworks",
-   "momentum": 72,
    "rank": 14
   },
   {
@@ -541,9 +541,9 @@
    "url": "https://github.com/Nerogar/OneTrainer",
    "owner": "Nerogar",
    "owner_avatar": "https://avatars.githubusercontent.com/u/3390934?v=4",
-   "stars": 3206,
-   "forks": 326,
-   "open_issues": 168,
+   "stars": 3209,
+   "forks": 327,
+   "open_issues": 167,
    "language": "Python",
    "license": "AGPL-3.0",
    "pushed_at": "2026-09-14T19:54:37Z",
@@ -566,8 +566,8 @@
    "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
    "owner": "amitshekhariitbhu",
    "owner_avatar": "https://avatars.githubusercontent.com/u/9877145?v=4",
-   "stars": 3084,
-   "forks": 554,
+   "stars": 3089,
+   "forks": 556,
    "open_issues": 2,
    "language": "Markdown",
    "license": "Apache-2.0",
@@ -600,12 +600,12 @@
    "url": "https://github.com/radixark/miles",
    "owner": "radixark",
    "owner_avatar": "https://avatars.githubusercontent.com/u/223053390?v=4",
-   "stars": 2898,
-   "forks": 498,
-   "open_issues": 1019,
+   "stars": 2919,
+   "forks": 501,
+   "open_issues": 1022,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-09-16T14:07:22Z",
+   "pushed_at": "2026-09-17T14:10:49Z",
    "created_at": "2025-10-09T06:04:57Z",
    "description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
    "topics": [],
@@ -730,8 +730,8 @@
    "url": "https://github.com/pykeio/ort",
    "owner": "pykeio",
    "owner_avatar": "https://avatars.githubusercontent.com/u/62268720?v=4",
-   "stars": 2508,
-   "forks": 270,
+   "stars": 2510,
+   "forks": 271,
    "open_issues": 2,
    "language": "Rust",
    "license": "Apache-2.0",
@@ -759,12 +759,12 @@
    "url": "https://github.com/google/tunix",
    "owner": "google",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1342004?v=4",
-   "stars": 2452,
-   "forks": 345,
+   "stars": 2453,
+   "forks": 347,
    "open_issues": 336,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-09-16T12:42:26Z",
+   "pushed_at": "2026-09-17T09:16:51Z",
    "created_at": "2025-04-02T22:19:15Z",
    "description": "A Lightweight LLM Post-Training Library",
    "topics": [],
@@ -780,11 +780,11 @@
    "owner": "AI-Hypercomputer",
    "owner_avatar": "https://avatars.githubusercontent.com/u/181000646?v=4",
    "stars": 2422,
-   "forks": 606,
-   "open_issues": 321,
+   "forks": 608,
+   "open_issues": 318,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-09-16T12:36:22Z",
+   "pushed_at": "2026-09-17T14:06:17Z",
    "created_at": "2023-02-28T19:47:29Z",
    "description": "A simple, performant, and scalable Jax LLM!",
    "topics": [
@@ -814,12 +814,12 @@
    "url": "https://github.com/dstackai/dstack",
    "owner": "dstackai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/54146142?v=4",
-   "stars": 2248,
+   "stars": 2252,
    "forks": 262,
-   "open_issues": 66,
+   "open_issues": 64,
    "language": "Python",
    "license": "MPL-2.0",
-   "pushed_at": "2026-09-16T13:34:05Z",
+   "pushed_at": "2026-09-17T13:04:02Z",
    "created_at": "2022-01-04T10:29:46Z",
    "description": "Vendor-agnostic orchestration for training, inference and agentic workloads across NVIDIA, AMD, TPU, and Tenstorrent on clouds, Kubernetes, and bare metal.",
    "topics": [
@@ -853,7 +853,7 @@
    "url": "https://github.com/bghira/SimpleTuner",
    "owner": "bghira",
    "owner_avatar": "https://avatars.githubusercontent.com/u/59658056?v=4",
-   "stars": 2921,
+   "stars": 2922,
    "forks": 294,
    "open_issues": 10,
    "language": "Python",
@@ -880,8 +880,8 @@
    "url": "https://github.com/kubeflow/trainer",
    "owner": "kubeflow",
    "owner_avatar": "https://avatars.githubusercontent.com/u/33164907?v=4",
-   "stars": 2220,
-   "forks": 1051,
+   "stars": 2222,
+   "forks": 1052,
    "open_issues": 194,
    "language": "Go",
    "license": "Apache-2.0",
@@ -916,8 +916,8 @@
    "url": "https://github.com/calmrocks/ai-engineer-notebooks",
    "owner": "calmrocks",
    "owner_avatar": "https://avatars.githubusercontent.com/u/154579257?v=4",
-   "stars": 633,
-   "forks": 44,
+   "stars": 636,
+   "forks": 46,
    "open_issues": 1,
    "language": "Jupyter Notebook",
    "license": "MIT",
@@ -955,7 +955,7 @@
    "url": "https://github.com/mbzuai-oryx/Awesome-LLM-Post-training",
    "owner": "mbzuai-oryx",
    "owner_avatar": "https://avatars.githubusercontent.com/u/133966423?v=4",
-   "stars": 2553,
+   "stars": 2554,
    "forks": 171,
    "open_issues": 19,
    "language": "Python",
@@ -982,12 +982,12 @@
    "url": "https://github.com/ModelCloud/GPTQModel",
    "owner": "ModelCloud",
    "owner_avatar": "https://avatars.githubusercontent.com/u/172743990?v=4",
-   "stars": 1256,
-   "forks": 207,
-   "open_issues": 42,
+   "stars": 1257,
+   "forks": 208,
+   "open_issues": 41,
    "language": "Python",
    "license": "NOASSERTION",
-   "pushed_at": "2026-09-16T09:42:44Z",
+   "pushed_at": "2026-09-17T11:48:54Z",
    "created_at": "2024-06-17T06:45:30Z",
    "description": "LLM model quantization (compression) toolkit with HW acceleration support for Nvidia, AMD, Intel GPU and Intel/AMD/Apple CPU via HF, vLLM, and SGLang.",
    "topics": [
@@ -1043,6 +1043,31 @@
    "rank": 30
   },
   {
+   "name": "aibuildai-llm-posttrain-agent",
+   "full_name": "aibuildai-inc/aibuildai-llm-posttrain-agent",
+   "slug": "aibuildai-inc-aibuildai-llm-posttrain-agent",
+   "url": "https://github.com/aibuildai-inc/aibuildai-llm-posttrain-agent",
+   "owner": "aibuildai-inc",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/328874755?v=4",
+   "stars": 49,
+   "forks": 7,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-09-16T23:01:38Z",
+   "created_at": "2026-09-16T01:37:46Z",
+   "description": "AIBuildAI LLM-Post-Train Agent: a recursive self-improving (RSI) agent for autonomous LLM post-training",
+   "topics": [
+    "agent",
+    "llm-post-training",
+    "recursive-self-improvement",
+    "rsi"
+   ],
+   "category": "Fine-Tuning Tools",
+   "momentum": 64,
+   "rank": 31
+  },
+  {
    "name": "Trinity-RFT",
    "full_name": "agentscope-ai/Trinity-RFT",
    "slug": "agentscope-ai-trinity-rft",
@@ -1064,7 +1089,7 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 63,
-   "rank": 31
+   "rank": 32
   },
   {
    "name": "LoongForge",
@@ -1073,7 +1098,7 @@
    "url": "https://github.com/baidu-baige/LoongForge",
    "owner": "baidu-baige",
    "owner_avatar": "https://avatars.githubusercontent.com/u/251454410?v=4",
-   "stars": 568,
+   "stars": 570,
    "forks": 49,
    "open_issues": 16,
    "language": "Python",
@@ -1103,7 +1128,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 63,
-   "rank": 32
+   "rank": 33
   },
   {
    "name": "aikit",
@@ -1144,7 +1169,7 @@
    ],
    "category": "Fine-Tuning Tools",
    "momentum": 62,
-   "rank": 33
+   "rank": 34
   },
   {
    "name": "vime",
@@ -1155,7 +1180,7 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/136984999?v=4",
    "stars": 467,
    "forks": 94,
-   "open_issues": 63,
+   "open_issues": 67,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-09-15T06:27:38Z",
@@ -1164,7 +1189,7 @@
    "topics": [],
    "category": "Training Frameworks",
    "momentum": 62,
-   "rank": 34
+   "rank": 35
   },
   {
    "name": "lora-speedrun",
@@ -1193,7 +1218,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 62,
-   "rank": 35
+   "rank": 36
   },
   {
    "name": "CosyVoice",
@@ -1202,8 +1227,8 @@
    "url": "https://github.com/QwenAudio/CosyVoice",
    "owner": "QwenAudio",
    "owner_avatar": "https://avatars.githubusercontent.com/u/167062371?v=4",
-   "stars": 23641,
-   "forks": 2687,
+   "stars": 23657,
+   "forks": 2689,
    "open_issues": 698,
    "language": "Python",
    "license": "Apache-2.0",
@@ -1233,7 +1258,7 @@
    ],
    "category": "Fine-Tuning Tools",
    "momentum": 61,
-   "rank": 36
+   "rank": 37
   },
   {
    "name": "GraphGen",
@@ -1270,7 +1295,31 @@
    ],
    "category": "Training Data",
    "momentum": 61,
-   "rank": 37
+   "rank": 38
+  },
+  {
+   "name": "Emotion-LLaMA",
+   "full_name": "ZebangCheng/Emotion-LLaMA",
+   "slug": "zebangcheng-emotion-llama",
+   "url": "https://github.com/ZebangCheng/Emotion-LLaMA",
+   "owner": "ZebangCheng",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/166844127?v=4",
+   "stars": 616,
+   "forks": 73,
+   "open_issues": 55,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "pushed_at": "2026-08-28T15:06:44Z",
+   "created_at": "2024-05-22T02:04:44Z",
+   "description": "Emotion-LLaMA: Multimodal Emotion Recognition and Reasoning with Instruction Tuning",
+   "topics": [
+    "affective-computing",
+    "instruction-tuning",
+    "mllm"
+   ],
+   "category": "Fine-Tuning Tools",
+   "momentum": 60,
+   "rank": 39
   },
   {
    "name": "awesome-llms-fine-tuning",
@@ -1300,32 +1349,36 @@
     "transformers"
    ],
    "category": "Collections",
-   "momentum": 61,
-   "rank": 38
+   "momentum": 60,
+   "rank": 40
   },
   {
-   "name": "Emotion-LLaMA",
-   "full_name": "ZebangCheng/Emotion-LLaMA",
-   "slug": "zebangcheng-emotion-llama",
-   "url": "https://github.com/ZebangCheng/Emotion-LLaMA",
-   "owner": "ZebangCheng",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/166844127?v=4",
-   "stars": 616,
-   "forks": 73,
-   "open_issues": 55,
-   "language": "Python",
-   "license": "BSD-3-Clause",
-   "pushed_at": "2026-08-28T15:06:44Z",
-   "created_at": "2024-05-22T02:04:44Z",
-   "description": "Emotion-LLaMA: Multimodal Emotion Recognition and Reasoning with Instruction Tuning",
+   "name": "awesome-post-training-RL",
+   "full_name": "SergioTermann/awesome-post-training-RL",
+   "slug": "sergiotermann-awesome-post-training-rl",
+   "url": "https://github.com/SergioTermann/awesome-post-training-RL",
+   "owner": "SergioTermann",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/20040974?v=4",
+   "stars": 28,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "",
+   "license": "MIT",
+   "pushed_at": "2026-09-13T16:39:29Z",
+   "created_at": "2026-09-11T15:01:38Z",
+   "description": "A curated list of papers on reinforcement learning post-training for LLMs",
    "topics": [
-    "affective-computing",
-    "instruction-tuning",
-    "mllm"
+    "awesome-list",
+    "dpo",
+    "grpo",
+    "llm",
+    "post-training",
+    "reinforcement-learning",
+    "rlhf"
    ],
-   "category": "Fine-Tuning Tools",
+   "category": "RLHF & Preference",
    "momentum": 60,
-   "rank": 39
+   "rank": 41
   },
   {
    "name": "MLX-LoRA-Studio",
@@ -1334,7 +1387,7 @@
    "url": "https://github.com/Goekdeniz-Guelmez/MLX-LoRA-Studio",
    "owner": "Goekdeniz-Guelmez",
    "owner_avatar": "https://avatars.githubusercontent.com/u/60228478?v=4",
-   "stars": 265,
+   "stars": 267,
    "forks": 28,
    "open_issues": 0,
    "language": "Swift",
@@ -1359,7 +1412,7 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 58,
-   "rank": 40
+   "rank": 42
   },
   {
    "name": "wazuh-ai-soc-azure",
@@ -1368,9 +1421,9 @@
    "url": "https://github.com/Francis206/wazuh-ai-soc-azure",
    "owner": "Francis206",
    "owner_avatar": "https://avatars.githubusercontent.com/u/53979570?v=4",
-   "stars": 189,
+   "stars": 220,
    "forks": 20,
-   "open_issues": 13,
+   "open_issues": 14,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2026-09-14T01:26:36Z",
@@ -1378,8 +1431,8 @@
    "description": "wazuh  azure  security-operations  siem  mistral  llm  hipaa  terraform  aks  mlops  soc  open-source  azure-api-management  lora  fine-tuning",
    "topics": [],
    "category": "PEFT & LoRA",
-   "momentum": 57,
-   "rank": 41
+   "momentum": 58,
+   "rank": 43
   },
   {
    "name": "abliterix",
@@ -1414,7 +1467,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 56,
-   "rank": 42
+   "rank": 44
   },
   {
    "name": "orbit",
@@ -1440,7 +1493,7 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 56,
-   "rank": 43
+   "rank": 45
   },
   {
    "name": "can-i-finetune-this",
@@ -1473,7 +1526,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 55,
-   "rank": 44
+   "rank": 46
   },
   {
    "name": "ArcticTraining",
@@ -1493,7 +1546,7 @@
    "topics": [],
    "category": "Training Frameworks",
    "momentum": 55,
-   "rank": 45
+   "rank": 47
   },
   {
    "name": "LLM-RLHF-Tuning-with-PPO-and-DPO",
@@ -1513,7 +1566,7 @@
    "topics": [],
    "category": "RLHF & Preference",
    "momentum": 55,
-   "rank": 46
+   "rank": 48
   },
   {
    "name": "NexRL",
@@ -1524,16 +1577,16 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/241570229?v=4",
    "stars": 119,
    "forks": 9,
-   "open_issues": 17,
+   "open_issues": 18,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-09-13T11:13:27Z",
+   "pushed_at": "2026-09-17T03:16:29Z",
    "created_at": "2025-11-12T13:26:15Z",
    "description": "NexRL is an ultra-loosely-coupled LLM post-training framework.",
    "topics": [],
    "category": "Training Frameworks",
    "momentum": 55,
-   "rank": 47
+   "rank": 49
   },
   {
    "name": "easy-dataset",
@@ -1542,7 +1595,7 @@
    "url": "https://github.com/ConardLi/easy-dataset",
    "owner": "ConardLi",
    "owner_avatar": "https://avatars.githubusercontent.com/u/30708545?v=4",
-   "stars": 14918,
+   "stars": 14922,
    "forks": 1533,
    "open_issues": 128,
    "language": "JavaScript",
@@ -1559,7 +1612,7 @@
    ],
    "category": "Training Data",
    "momentum": 54,
-   "rank": 48
+   "rank": 50
   },
   {
    "name": "open-rl",
@@ -1570,43 +1623,16 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/197140281?v=4",
    "stars": 82,
    "forks": 16,
-   "open_issues": 41,
+   "open_issues": 39,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-09-15T23:14:04Z",
+   "pushed_at": "2026-09-16T21:36:30Z",
    "created_at": "2026-03-10T17:02:38Z",
    "description": "Self-hosted post training API for LLMs",
    "topics": [],
    "category": "Fine-Tuning Tools",
-   "momentum": 54,
-   "rank": 49
-  },
-  {
-   "name": "EmoLLM",
-   "full_name": "SmartFlowAI/EmoLLM",
-   "slug": "smartflowai-emollm",
-   "url": "https://github.com/SmartFlowAI/EmoLLM",
-   "owner": "SmartFlowAI",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/161115059?v=4",
-   "stars": 1784,
-   "forks": 224,
-   "open_issues": 5,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-06-18T16:47:43Z",
-   "created_at": "2024-01-11T08:58:19Z",
-   "description": "心理健康大模型 (LLM x Mental Health), Pre & Post-training & Dataset & Evaluation & Depoly & RAG,  with InternLM / Qwen / Baichuan / DeepSeek / Mixtral / LLama / GLM series models",
-   "topics": [
-    "dataset",
-    "depoly",
-    "evaluation",
-    "llm",
-    "post-training",
-    "the-big-model-of-mental-health"
-   ],
-   "category": "Training Data",
    "momentum": 53,
-   "rank": 50
+   "rank": 51
   },
   {
    "name": "VoxCPM2_portable",
@@ -1626,7 +1652,34 @@
    "topics": [],
    "category": "PEFT & LoRA",
    "momentum": 53,
-   "rank": 51
+   "rank": 52
+  },
+  {
+   "name": "EmoLLM",
+   "full_name": "SmartFlowAI/EmoLLM",
+   "slug": "smartflowai-emollm",
+   "url": "https://github.com/SmartFlowAI/EmoLLM",
+   "owner": "SmartFlowAI",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/161115059?v=4",
+   "stars": 1785,
+   "forks": 224,
+   "open_issues": 5,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-06-18T16:47:43Z",
+   "created_at": "2024-01-11T08:58:19Z",
+   "description": "心理健康大模型 (LLM x Mental Health), Pre & Post-training & Dataset & Evaluation & Depoly & RAG,  with InternLM / Qwen / Baichuan / DeepSeek / Mixtral / LLama / GLM series models",
+   "topics": [
+    "dataset",
+    "depoly",
+    "evaluation",
+    "llm",
+    "post-training",
+    "the-big-model-of-mental-health"
+   ],
+   "category": "Training Data",
+   "momentum": 52,
+   "rank": 53
   },
   {
    "name": "mlx-tune",
@@ -1635,7 +1688,7 @@
    "url": "https://github.com/ARahim3/mlx-tune",
    "owner": "ARahim3",
    "owner_avatar": "https://avatars.githubusercontent.com/u/41390319?v=4",
-   "stars": 1408,
+   "stars": 1407,
    "forks": 92,
    "open_issues": 12,
    "language": "Python",
@@ -1667,7 +1720,48 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 52,
-   "rank": 52
+   "rank": 54
+  },
+  {
+   "name": "rl-llm-nlp",
+   "full_name": "hscspring/rl-llm-nlp",
+   "slug": "hscspring-rl-llm-nlp",
+   "url": "https://github.com/hscspring/rl-llm-nlp",
+   "owner": "hscspring",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/7485553?v=4",
+   "stars": 75,
+   "forks": 6,
+   "open_issues": 0,
+   "language": "",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-09-11T10:29:35Z",
+   "created_at": "2024-12-23T00:58:22Z",
+   "description": "Curated, opinionated index of post-R1 LLM × Reinforcement Learning. Many deep-dive blog posts cross-linked to many papers — GRPO, DAPO, DPO, PPO, RLHF, GSPO, CISPO, VAPO, Reward Modeling, MoE RL stability, Verifier-Free RL, Training-Free RL, Agentic RL, DeepSeek-R1 reproduction.",
+   "topics": [
+    "agentic-rl",
+    "alignment",
+    "awesome",
+    "awesome-list",
+    "curated-list",
+    "deepseek-r1",
+    "dpo",
+    "grpo",
+    "llm",
+    "llm-reasoning",
+    "llm-training",
+    "moe",
+    "paper-list",
+    "post-training",
+    "ppo",
+    "reasoning",
+    "reinforcement-learning",
+    "reward-modeling",
+    "rl-from-human-feedback",
+    "rlhf"
+   ],
+   "category": "RLHF & Preference",
+   "momentum": 52,
+   "rank": 55
   },
   {
    "name": "minimind-deep-dive",
@@ -1705,69 +1799,8 @@
     "transformer"
    ],
    "category": "RLHF & Preference",
-   "momentum": 52,
-   "rank": 53
-  },
-  {
-   "name": "rl-llm-nlp",
-   "full_name": "hscspring/rl-llm-nlp",
-   "slug": "hscspring-rl-llm-nlp",
-   "url": "https://github.com/hscspring/rl-llm-nlp",
-   "owner": "hscspring",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/7485553?v=4",
-   "stars": 74,
-   "forks": 6,
-   "open_issues": 0,
-   "language": "",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-09-11T10:29:35Z",
-   "created_at": "2024-12-23T00:58:22Z",
-   "description": "Curated, opinionated index of post-R1 LLM × Reinforcement Learning. Many deep-dive blog posts cross-linked to many papers — GRPO, DAPO, DPO, PPO, RLHF, GSPO, CISPO, VAPO, Reward Modeling, MoE RL stability, Verifier-Free RL, Training-Free RL, Agentic RL, DeepSeek-R1 reproduction.",
-   "topics": [
-    "agentic-rl",
-    "alignment",
-    "awesome",
-    "awesome-list",
-    "curated-list",
-    "deepseek-r1",
-    "dpo",
-    "grpo",
-    "llm",
-    "llm-reasoning",
-    "llm-training",
-    "moe",
-    "paper-list",
-    "post-training",
-    "ppo",
-    "reasoning",
-    "reinforcement-learning",
-    "reward-modeling",
-    "rl-from-human-feedback",
-    "rlhf"
-   ],
-   "category": "RLHF & Preference",
-   "momentum": 52,
-   "rank": 54
-  },
-  {
-   "name": "Awesome-LLM-Reasoning-Data",
-   "full_name": "RenBing-Sumeru/Awesome-LLM-Reasoning-Data",
-   "slug": "renbing-sumeru-awesome-llm-reasoning-data",
-   "url": "https://github.com/RenBing-Sumeru/Awesome-LLM-Reasoning-Data",
-   "owner": "RenBing-Sumeru",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/124780470?v=4",
-   "stars": 94,
-   "forks": 13,
-   "open_issues": 1,
-   "language": "TeX",
-   "license": "MIT",
-   "pushed_at": "2026-08-19T14:29:57Z",
-   "created_at": "2026-06-01T03:34:34Z",
-   "description": "A curated atlas of post-training reasoning data, verifiers, and recipes. Based on the paper: A Primer in Post-Training Reasoning Data. https://arxiv.org/abs/2606.02113. Project development team: Peking University、Tsinghua University.",
-   "topics": [],
-   "category": "Training Frameworks",
    "momentum": 51,
-   "rank": 55
+   "rank": 56
   },
   {
    "name": "llm-atlas",
@@ -1787,7 +1820,7 @@
    "topics": [],
    "category": "RLHF & Preference",
    "momentum": 51,
-   "rank": 56
+   "rank": 57
   },
   {
    "name": "CuratorKIT",
@@ -1798,16 +1831,16 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/129584598?v=4",
    "stars": 27,
    "forks": 2,
-   "open_issues": 0,
+   "open_issues": 1,
    "language": "Jupyter Notebook",
    "license": "NOASSERTION",
-   "pushed_at": "2026-09-16T13:30:22Z",
+   "pushed_at": "2026-09-17T12:33:46Z",
    "created_at": "2026-06-16T07:36:58Z",
    "description": "CuratorKIT : Data curation and synthetic data generation for LLM post-training.",
    "topics": [],
    "category": "Training Data",
    "momentum": 51,
-   "rank": 57
+   "rank": 58
   },
   {
    "name": "LLaVA",
@@ -1816,8 +1849,8 @@
    "url": "https://github.com/haotian-liu/LLaVA",
    "owner": "haotian-liu",
    "owner_avatar": "https://avatars.githubusercontent.com/u/6631389?v=4",
-   "stars": 25023,
-   "forks": 2780,
+   "stars": 25024,
+   "forks": 2779,
    "open_issues": 1141,
    "language": "Python",
    "license": "Apache-2.0",
@@ -1841,7 +1874,7 @@
    ],
    "category": "Fine-Tuning Tools",
    "momentum": 50,
-   "rank": 58
+   "rank": 59
   },
   {
    "name": "bumblecore",
@@ -1875,7 +1908,61 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 50,
-   "rank": 59
+   "rank": 60
+  },
+  {
+   "name": "Awesome-LLM-Reasoning-Data",
+   "full_name": "RenBing-Sumeru/Awesome-LLM-Reasoning-Data",
+   "slug": "renbing-sumeru-awesome-llm-reasoning-data",
+   "url": "https://github.com/RenBing-Sumeru/Awesome-LLM-Reasoning-Data",
+   "owner": "RenBing-Sumeru",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/124780470?v=4",
+   "stars": 94,
+   "forks": 13,
+   "open_issues": 1,
+   "language": "TeX",
+   "license": "MIT",
+   "pushed_at": "2026-08-19T14:29:57Z",
+   "created_at": "2026-06-01T03:34:34Z",
+   "description": "A curated atlas of post-training reasoning data, verifiers, and recipes. Based on the paper: A Primer in Post-Training Reasoning Data. https://arxiv.org/abs/2606.02113. Project development team: Peking University、Tsinghua University.",
+   "topics": [],
+   "category": "Training Frameworks",
+   "momentum": 50,
+   "rank": 61
+  },
+  {
+   "name": "petitgpt",
+   "full_name": "yangqi0/petitgpt",
+   "slug": "yangqi0-petitgpt",
+   "url": "https://github.com/yangqi0/petitgpt",
+   "owner": "yangqi0",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/64196218?v=4",
+   "stars": 41,
+   "forks": 7,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-09-16T23:42:20Z",
+   "created_at": "2026-02-04T21:06:07Z",
+   "description": "A 124.6M LLM trained from scratch on 13B tokens on a single RTX 4090 — tokenizer, pretraining, post-training, evaluation, and reproducible inference.",
+   "topics": [
+    "distillation",
+    "from-scratch",
+    "generative-ai",
+    "instruction-tuning",
+    "language-model",
+    "llm",
+    "model-evaluation",
+    "post-training",
+    "pretraining",
+    "pytorch",
+    "reproducibility",
+    "single-gpu",
+    "small-language-model"
+   ],
+   "category": "Distillation",
+   "momentum": 50,
+   "rank": 62
   },
   {
    "name": "aligntune",
@@ -1895,7 +1982,7 @@
    "topics": [],
    "category": "Training Frameworks",
    "momentum": 50,
-   "rank": 60
+   "rank": 63
   },
   {
    "name": "llm-datasets",
@@ -1904,8 +1991,8 @@
    "url": "https://github.com/mlabonne/llm-datasets",
    "owner": "mlabonne",
    "owner_avatar": "https://avatars.githubusercontent.com/u/81252890?v=4",
-   "stars": 4782,
-   "forks": 395,
+   "stars": 4783,
+   "forks": 396,
    "open_issues": 9,
    "language": "",
    "license": "",
@@ -1918,8 +2005,8 @@
     "llm"
    ],
    "category": "Training Data",
-   "momentum": 49,
-   "rank": 61
+   "momentum": 48,
+   "rank": 64
   },
   {
    "name": "RAG-FiT",
@@ -1948,7 +2035,7 @@
    ],
    "category": "Training Frameworks",
    "momentum": 47,
-   "rank": 62
+   "rank": 65
   },
   {
    "name": "PassLLM",
@@ -1988,7 +2075,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 47,
-   "rank": 63
+   "rank": 66
   },
   {
    "name": "nano-llm-posttraining",
@@ -1998,7 +2085,7 @@
    "owner": "pochenai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/13568446?v=4",
    "stars": 27,
-   "forks": 5,
+   "forks": 6,
    "open_issues": 0,
    "language": "Python",
    "license": "MIT",
@@ -2008,7 +2095,7 @@
    "topics": [],
    "category": "Quantize & Merge",
    "momentum": 47,
-   "rank": 64
+   "rank": 67
   },
   {
    "name": "TinyEngram",
@@ -2043,7 +2130,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 46,
-   "rank": 65
+   "rank": 68
   },
   {
    "name": "unsloth-buddy",
@@ -2077,27 +2164,7 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 45,
-   "rank": 66
-  },
-  {
-   "name": "chatglm6b-social-media-ie",
-   "full_name": "phoenix-zhou/chatglm6b-social-media-ie",
-   "slug": "phoenix-zhou-chatglm6b-social-media-ie",
-   "url": "https://github.com/phoenix-zhou/chatglm6b-social-media-ie",
-   "owner": "phoenix-zhou",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/15656570?v=4",
-   "stars": 81,
-   "forks": 9,
-   "open_issues": 0,
-   "language": "Python",
-   "license": "",
-   "pushed_at": "2026-07-01T14:47:16Z",
-   "created_at": "2026-07-01T14:44:52Z",
-   "description": "This project leverages the ChatGLM-6B Large Language Model (LLM), combined with LoRA and P-Tuning fine-tuning techniques, to implement text classification and Information Extraction (IE) specifically for the new media industry.",
-   "topics": [],
-   "category": "PEFT & LoRA",
-   "momentum": 45,
-   "rank": 67
+   "rank": 69
   },
   {
    "name": "LLM-fine-tuner",
@@ -2133,7 +2200,7 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 45,
-   "rank": 68
+   "rank": 70
   },
   {
    "name": "lora",
@@ -2159,7 +2226,27 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 44,
-   "rank": 69
+   "rank": 71
+  },
+  {
+   "name": "chatglm6b-social-media-ie",
+   "full_name": "phoenix-zhou/chatglm6b-social-media-ie",
+   "slug": "phoenix-zhou-chatglm6b-social-media-ie",
+   "url": "https://github.com/phoenix-zhou/chatglm6b-social-media-ie",
+   "owner": "phoenix-zhou",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/15656570?v=4",
+   "stars": 81,
+   "forks": 9,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "",
+   "pushed_at": "2026-07-01T14:47:16Z",
+   "created_at": "2026-07-01T14:44:52Z",
+   "description": "This project leverages the ChatGLM-6B Large Language Model (LLM), combined with LoRA and P-Tuning fine-tuning techniques, to implement text classification and Information Extraction (IE) specifically for the new media industry.",
+   "topics": [],
+   "category": "PEFT & LoRA",
+   "momentum": 44,
+   "rank": 72
   },
   {
    "name": "Firefly",
@@ -2200,7 +2287,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 43,
-   "rank": 70
+   "rank": 73
   },
   {
    "name": "lit-llama",
@@ -2220,7 +2307,7 @@
    "topics": [],
    "category": "RLHF & Preference",
    "momentum": 43,
-   "rank": 71
+   "rank": 74
   },
   {
    "name": "Study-Reinforcement-Learning",
@@ -2258,7 +2345,7 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 43,
-   "rank": 72
+   "rank": 75
   },
   {
    "name": "cavegemma",
@@ -2267,7 +2354,7 @@
    "url": "https://github.com/JuliusBrussee/cavegemma",
    "owner": "JuliusBrussee",
    "owner_avatar": "https://avatars.githubusercontent.com/u/104168679?v=4",
-   "stars": 121,
+   "stars": 122,
    "forks": 16,
    "open_issues": 0,
    "language": "Python",
@@ -2287,7 +2374,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 43,
-   "rank": 73
+   "rank": 76
   },
   {
    "name": "second-brain-ai-assistant-course",
@@ -2296,7 +2383,7 @@
    "url": "https://github.com/decodingai-magazine/second-brain-ai-assistant-course",
    "owner": "decodingai-magazine",
    "owner_avatar": "https://avatars.githubusercontent.com/u/153360176?v=4",
-   "stars": 3088,
+   "stars": 3089,
    "forks": 522,
    "open_issues": 6,
    "language": "Jupyter Notebook",
@@ -2319,7 +2406,7 @@
    ],
    "category": "Fine-Tuning Tools",
    "momentum": 42,
-   "rank": 74
+   "rank": 77
   },
   {
    "name": "LLMBook-zh.github.io",
@@ -2328,8 +2415,8 @@
    "url": "https://github.com/LLMBook-zh/LLMBook-zh.github.io",
    "owner": "LLMBook-zh",
    "owner_avatar": "https://avatars.githubusercontent.com/u/167047677?v=4",
-   "stars": 4570,
-   "forks": 348,
+   "stars": 4571,
+   "forks": 349,
    "open_issues": 13,
    "language": "Python",
    "license": "",
@@ -2350,7 +2437,7 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 41,
-   "rank": 75
+   "rank": 78
   },
   {
    "name": "GPT-4-LLM",
@@ -2376,7 +2463,7 @@
    ],
    "category": "Fine-Tuning Tools",
    "momentum": 41,
-   "rank": 76
+   "rank": 79
   },
   {
    "name": "neosync",
@@ -2416,7 +2503,7 @@
    ],
    "category": "Fine-Tuning Tools",
    "momentum": 41,
-   "rank": 77
+   "rank": 80
   },
   {
    "name": "transformers-code",
@@ -2425,7 +2512,7 @@
    "url": "https://github.com/zyds/transformers-code",
    "owner": "zyds",
    "owner_avatar": "https://avatars.githubusercontent.com/u/20520816?v=4",
-   "stars": 4064,
+   "stars": 4065,
    "forks": 520,
    "open_issues": 4,
    "language": "Jupyter Notebook",
@@ -2440,7 +2527,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 41,
-   "rank": 78
+   "rank": 81
   },
   {
    "name": "LLM-Finetuning-Toolkit",
@@ -2479,7 +2566,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 41,
-   "rank": 79
+   "rank": 82
   },
   {
    "name": "Awesome-LLM-Interview",
@@ -2499,7 +2586,7 @@
    "topics": [],
    "category": "RLHF & Preference",
    "momentum": 41,
-   "rank": 80
+   "rank": 83
   },
   {
    "name": "Travel-Agent-based-on-Qwen2-RLHF",
@@ -2530,7 +2617,7 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 41,
-   "rank": 81
+   "rank": 84
   },
   {
    "name": "tech-interview-curriculum",
@@ -2571,7 +2658,7 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 41,
-   "rank": 82
+   "rank": 85
   },
   {
    "name": "ChatGLM-Tuning",
@@ -2596,7 +2683,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 40,
-   "rank": 83
+   "rank": 86
   },
   {
    "name": "ChatGLM-Efficient-Tuning",
@@ -2630,7 +2717,7 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 40,
-   "rank": 84
+   "rank": 87
   },
   {
    "name": "face.evoLVe",
@@ -2671,7 +2758,7 @@
    ],
    "category": "Fine-Tuning Tools",
    "momentum": 40,
-   "rank": 85
+   "rank": 88
   },
   {
    "name": "OML-1.0-Fingerprinting",
@@ -2698,7 +2785,7 @@
    ],
    "category": "Fine-Tuning Tools",
    "momentum": 40,
-   "rank": 86
+   "rank": 89
   },
   {
    "name": "hands-on-llms",
@@ -2737,39 +2824,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 40,
-   "rank": 87
-  },
-  {
-   "name": "WhiteHat",
-   "full_name": "urcuqui/WhiteHat",
-   "slug": "urcuqui-whitehat",
-   "url": "https://github.com/urcuqui/WhiteHat",
-   "owner": "urcuqui",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/2390479?v=4",
-   "stars": 118,
-   "forks": 40,
-   "open_issues": 1,
-   "language": "Jupyter Notebook",
-   "license": "",
-   "pushed_at": "2026-06-19T17:37:50Z",
-   "created_at": "2015-08-21T05:21:19Z",
-   "description": "A collection of AI-powered tools for phishing detection, adversarial machine learning, and cybersecurity research. Includes Streamlit/Flask apps, attack simulations, LoRA fine-tuning, and secure model evaluation for red teaming and defense.",
-   "topics": [
-    "cybersecurity",
-    "hacker",
-    "hacking",
-    "machine-learning-algorithms",
-    "penetration-testing",
-    "pentesting",
-    "r",
-    "research",
-    "researcher",
-    "threat-intelligence",
-    "whitehat"
-   ],
-   "category": "PEFT & LoRA",
-   "momentum": 40,
-   "rank": 88
+   "rank": 90
   },
   {
    "name": "GSQ",
@@ -2794,7 +2849,7 @@
    ],
    "category": "Quantize & Merge",
    "momentum": 40,
-   "rank": 89
+   "rank": 91
   },
   {
    "name": "UER-py",
@@ -2803,7 +2858,7 @@
    "url": "https://github.com/dbiir/UER-py",
    "owner": "dbiir",
    "owner_avatar": "https://avatars.githubusercontent.com/u/13671736?v=4",
-   "stars": 3114,
+   "stars": 3115,
    "forks": 519,
    "open_issues": 136,
    "language": "Python",
@@ -2835,7 +2890,7 @@
    ],
    "category": "Training Frameworks",
    "momentum": 39,
-   "rank": 90
+   "rank": 92
   },
   {
    "name": "LLM-Finetuning",
@@ -2867,7 +2922,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 39,
-   "rank": 91
+   "rank": 93
   },
   {
    "name": "Alpaca-CoT",
@@ -2903,7 +2958,39 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 39,
-   "rank": 92
+   "rank": 94
+  },
+  {
+   "name": "WhiteHat",
+   "full_name": "urcuqui/WhiteHat",
+   "slug": "urcuqui-whitehat",
+   "url": "https://github.com/urcuqui/WhiteHat",
+   "owner": "urcuqui",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/2390479?v=4",
+   "stars": 118,
+   "forks": 40,
+   "open_issues": 1,
+   "language": "Jupyter Notebook",
+   "license": "",
+   "pushed_at": "2026-06-19T17:37:50Z",
+   "created_at": "2015-08-21T05:21:19Z",
+   "description": "A collection of AI-powered tools for phishing detection, adversarial machine learning, and cybersecurity research. Includes Streamlit/Flask apps, attack simulations, LoRA fine-tuning, and secure model evaluation for red teaming and defense.",
+   "topics": [
+    "cybersecurity",
+    "hacker",
+    "hacking",
+    "machine-learning-algorithms",
+    "penetration-testing",
+    "pentesting",
+    "r",
+    "research",
+    "researcher",
+    "threat-intelligence",
+    "whitehat"
+   ],
+   "category": "PEFT & LoRA",
+   "momentum": 39,
+   "rank": 95
   },
   {
    "name": "AI-Engineering.academy",
@@ -2932,7 +3019,7 @@
    ],
    "category": "Quantize & Merge",
    "momentum": 38,
-   "rank": 93
+   "rank": 96
   },
   {
    "name": "YiVal",
@@ -2972,47 +3059,7 @@
    ],
    "category": "Training Frameworks",
    "momentum": 38,
-   "rank": 94
-  },
-  {
-   "name": "WaDi",
-   "full_name": "gudaochangsheng/WaDi",
-   "slug": "gudaochangsheng-wadi",
-   "url": "https://github.com/gudaochangsheng/WaDi",
-   "owner": "gudaochangsheng",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/55449621?v=4",
-   "stars": 192,
-   "forks": 16,
-   "open_issues": 0,
-   "language": "Python",
-   "license": "",
-   "pushed_at": "2026-05-26T02:30:57Z",
-   "created_at": "2026-03-09T07:08:36Z",
-   "description": "[CVPR 2026] Official PyTorch implementation of WaDi: Weight Direction-aware Distillation for One-step Image Synthesis",
-   "topics": [
-    "adaptation",
-    "controllable-generation",
-    "deep-learning",
-    "distillation",
-    "distillation-model",
-    "dmd",
-    "dmd2",
-    "image-generation",
-    "lora",
-    "lorad",
-    "low-rank",
-    "low-rank-adaptation",
-    "one-step-diffusion-model",
-    "peft",
-    "pytorch",
-    "rope",
-    "sid",
-    "swiftbrush",
-    "swiftburshv2"
-   ],
-   "category": "PEFT & LoRA",
-   "momentum": 38,
-   "rank": 95
+   "rank": 97
   },
   {
    "name": "Easy-LLM-Post-Training",
@@ -3032,7 +3079,7 @@
    "topics": [],
    "category": "RLHF & Preference",
    "momentum": 38,
-   "rank": 96
+   "rank": 98
   },
   {
    "name": "simple-llm-finetuner",
@@ -3062,7 +3109,47 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 37,
-   "rank": 97
+   "rank": 99
+  },
+  {
+   "name": "WaDi",
+   "full_name": "gudaochangsheng/WaDi",
+   "slug": "gudaochangsheng-wadi",
+   "url": "https://github.com/gudaochangsheng/WaDi",
+   "owner": "gudaochangsheng",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/55449621?v=4",
+   "stars": 193,
+   "forks": 16,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "",
+   "pushed_at": "2026-05-26T02:30:57Z",
+   "created_at": "2026-03-09T07:08:36Z",
+   "description": "[CVPR 2026] Official PyTorch implementation of WaDi: Weight Direction-aware Distillation for One-step Image Synthesis",
+   "topics": [
+    "adaptation",
+    "controllable-generation",
+    "deep-learning",
+    "distillation",
+    "distillation-model",
+    "dmd",
+    "dmd2",
+    "image-generation",
+    "lora",
+    "lorad",
+    "low-rank",
+    "low-rank-adaptation",
+    "one-step-diffusion-model",
+    "peft",
+    "pytorch",
+    "rope",
+    "sid",
+    "swiftbrush",
+    "swiftburshv2"
+   ],
+   "category": "PEFT & LoRA",
+   "momentum": 37,
+   "rank": 100
   },
   {
    "name": "LLM-Adapters",
@@ -3087,7 +3174,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 35,
-   "rank": 98
+   "rank": 101
   },
   {
    "name": "SLAM-LLM",
@@ -3096,7 +3183,7 @@
    "url": "https://github.com/X-LANCE/SLAM-LLM",
    "owner": "X-LANCE",
    "owner_avatar": "https://avatars.githubusercontent.com/u/35554183?v=4",
-   "stars": 1062,
+   "stars": 1063,
    "forks": 118,
    "open_issues": 35,
    "language": "Python",
@@ -3114,7 +3201,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 34,
-   "rank": 99
+   "rank": 102
   },
   {
    "name": "MiniLoRA",
@@ -3134,7 +3221,7 @@
    "topics": [],
    "category": "PEFT & LoRA",
    "momentum": 34,
-   "rank": 100
+   "rank": 103
   },
   {
    "name": "arkalos",
@@ -3154,7 +3241,7 @@
    "topics": [],
    "category": "Training Frameworks",
    "momentum": 34,
-   "rank": 101
+   "rank": 104
   },
   {
    "name": "The-Scaling-Law-for-Reinforcement-Learning",
@@ -3174,7 +3261,7 @@
    "topics": [],
    "category": "RLHF & Preference",
    "momentum": 34,
-   "rank": 102
+   "rank": 105
   },
   {
    "name": "LLM-Dojo",
@@ -3194,7 +3281,7 @@
    "topics": [],
    "category": "Fine-Tuning Tools",
    "momentum": 33,
-   "rank": 103
+   "rank": 106
   },
   {
    "name": "FineTuningLLMs",
@@ -3203,8 +3290,8 @@
    "url": "https://github.com/dvgodoy/FineTuningLLMs",
    "owner": "dvgodoy",
    "owner_avatar": "https://avatars.githubusercontent.com/u/5184020?v=4",
-   "stars": 864,
-   "forks": 118,
+   "stars": 865,
+   "forks": 119,
    "open_issues": 4,
    "language": "Jupyter Notebook",
    "license": "MIT",
@@ -3229,7 +3316,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 33,
-   "rank": 104
+   "rank": 107
   },
   {
    "name": "GraphGPT",
@@ -3238,7 +3325,7 @@
    "url": "https://github.com/HKUDS/GraphGPT",
    "owner": "HKUDS",
    "owner_avatar": "https://avatars.githubusercontent.com/u/118165258?v=4",
-   "stars": 832,
+   "stars": 831,
    "forks": 85,
    "open_issues": 28,
    "language": "Python",
@@ -3255,7 +3342,7 @@
    ],
    "category": "Fine-Tuning Tools",
    "momentum": 33,
-   "rank": 105
+   "rank": 108
   },
   {
    "name": "Machine-Learning-Guide",
@@ -3296,7 +3383,7 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 32,
-   "rank": 106
+   "rank": 109
   },
   {
    "name": "gritlm",
@@ -3330,7 +3417,7 @@
    ],
    "category": "Fine-Tuning Tools",
    "momentum": 32,
-   "rank": 107
+   "rank": 110
   },
   {
    "name": "Platypus",
@@ -3350,27 +3437,7 @@
    "topics": [],
    "category": "PEFT & LoRA",
    "momentum": 32,
-   "rank": 108
-  },
-  {
-   "name": "SliderQuant",
-   "full_name": "deep-optimization/SliderQuant",
-   "slug": "deep-optimization-sliderquant",
-   "url": "https://github.com/deep-optimization/SliderQuant",
-   "owner": "deep-optimization",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/186016343?v=4",
-   "stars": 26,
-   "forks": 4,
-   "open_issues": 0,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-06-15T07:54:58Z",
-   "created_at": "2026-02-27T08:25:46Z",
-   "description": "The official project website of \"SliderQuant: Accurate Post-Training Quantization for LLMs\" (accepted to ICLR 2026).",
-   "topics": [],
-   "category": "Quantize & Merge",
-   "momentum": 32,
-   "rank": 109
+   "rank": 111
   },
   {
    "name": "deita",
@@ -3395,7 +3462,7 @@
    ],
    "category": "Fine-Tuning Tools",
    "momentum": 31,
-   "rank": 110
+   "rank": 112
   },
   {
    "name": "LLM-FineTuning-Large-Language-Models",
@@ -3428,7 +3495,7 @@
    ],
    "category": "Fine-Tuning Tools",
    "momentum": 31,
-   "rank": 111
+   "rank": 113
   },
   {
    "name": "Online-RLHF",
@@ -3452,7 +3519,7 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 31,
-   "rank": 112
+   "rank": 114
   },
   {
    "name": "ReasonFlux",
@@ -3484,7 +3551,7 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 31,
-   "rank": 113
+   "rank": 115
   },
   {
    "name": "LESS",
@@ -3512,7 +3579,7 @@
    ],
    "category": "Fine-Tuning Tools",
    "momentum": 31,
-   "rank": 114
+   "rank": 116
   },
   {
    "name": "dLLM-RL",
@@ -3540,7 +3607,7 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 31,
-   "rank": 115
+   "rank": 117
   },
   {
    "name": "awesome-instruction-learning",
@@ -3572,7 +3639,27 @@
    ],
    "category": "Training Data",
    "momentum": 31,
-   "rank": 116
+   "rank": 118
+  },
+  {
+   "name": "SliderQuant",
+   "full_name": "deep-optimization/SliderQuant",
+   "slug": "deep-optimization-sliderquant",
+   "url": "https://github.com/deep-optimization/SliderQuant",
+   "owner": "deep-optimization",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/186016343?v=4",
+   "stars": 26,
+   "forks": 4,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-06-15T07:54:58Z",
+   "created_at": "2026-02-27T08:25:46Z",
+   "description": "The official project website of \"SliderQuant: Accurate Post-Training Quantization for LLMs\" (accepted to ICLR 2026).",
+   "topics": [],
+   "category": "Quantize & Merge",
+   "momentum": 31,
+   "rank": 119
   },
   {
    "name": "VibeVoiceFusion",
@@ -3605,7 +3692,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 30,
-   "rank": 117
+   "rank": 120
   },
   {
    "name": "step_into_llm",
@@ -3646,7 +3733,7 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 30,
-   "rank": 118
+   "rank": 121
   },
   {
    "name": "relora",
@@ -3673,7 +3760,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 30,
-   "rank": 119
+   "rank": 122
   },
   {
    "name": "LLaMA-LoRA-Tuner",
@@ -3705,7 +3792,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 30,
-   "rank": 120
+   "rank": 123
   },
   {
    "name": "Finetune_LLMs",
@@ -3738,7 +3825,7 @@
    ],
    "category": "Fine-Tuning Tools",
    "momentum": 30,
-   "rank": 121
+   "rank": 124
   },
   {
    "name": "LLM-RLHF-Tuning",
@@ -3768,7 +3855,7 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 30,
-   "rank": 122
+   "rank": 125
   },
   {
    "name": "PiSSA",
@@ -3792,7 +3879,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 30,
-   "rank": 123
+   "rank": 126
   },
   {
    "name": "tiger",
@@ -3822,7 +3909,7 @@
    ],
    "category": "Training Frameworks",
    "momentum": 29,
-   "rank": 124
+   "rank": 127
   },
   {
    "name": "llms_paper",
@@ -3831,7 +3918,7 @@
    "url": "https://github.com/km1994/llms_paper",
    "owner": "km1994",
    "owner_avatar": "https://avatars.githubusercontent.com/u/7261924?v=4",
-   "stars": 389,
+   "stars": 391,
    "forks": 19,
    "open_issues": 0,
    "language": "",
@@ -3849,7 +3936,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 29,
-   "rank": 125
+   "rank": 128
   },
   {
    "name": "mLoRA",
@@ -3882,7 +3969,7 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 29,
-   "rank": 126
+   "rank": 129
   },
   {
    "name": "Awesome-instruction-tuning",
@@ -3915,27 +4002,7 @@
    ],
    "category": "Training Data",
    "momentum": 29,
-   "rank": 127
-  },
-  {
-   "name": "index-tts-lora",
-   "full_name": "asr-pub/index-tts-lora",
-   "slug": "asr-pub-index-tts-lora",
-   "url": "https://github.com/asr-pub/index-tts-lora",
-   "owner": "asr-pub",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/22003430?v=4",
-   "stars": 338,
-   "forks": 31,
-   "open_issues": 0,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-03-12T07:10:00Z",
-   "created_at": "2025-09-08T13:45:53Z",
-   "description": "High-quality speech synthesis with LoRA fine-tuning on index-tts, enhancing prosody and naturalness for single and multi-speaker voices.",
-   "topics": [],
-   "category": "PEFT & LoRA",
-   "momentum": 29,
-   "rank": 128
+   "rank": 130
   },
   {
    "name": "learn-MedicalGPT",
@@ -3955,7 +4022,27 @@
    "topics": [],
    "category": "RLHF & Preference",
    "momentum": 29,
-   "rank": 129
+   "rank": 131
+  },
+  {
+   "name": "index-tts-lora",
+   "full_name": "asr-pub/index-tts-lora",
+   "slug": "asr-pub-index-tts-lora",
+   "url": "https://github.com/asr-pub/index-tts-lora",
+   "owner": "asr-pub",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/22003430?v=4",
+   "stars": 337,
+   "forks": 31,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-03-12T07:10:00Z",
+   "created_at": "2025-09-08T13:45:53Z",
+   "description": "High-quality speech synthesis with LoRA fine-tuning on index-tts, enhancing prosody and naturalness for single and multi-speaker voices.",
+   "topics": [],
+   "category": "PEFT & LoRA",
+   "momentum": 28,
+   "rank": 132
   },
   {
    "name": "LL3DA",
@@ -3986,7 +4073,7 @@
    ],
    "category": "Fine-Tuning Tools",
    "momentum": 28,
-   "rank": 130
+   "rank": 133
   },
   {
    "name": "PersonalStyleAI-Framework-",
@@ -4012,7 +4099,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 28,
-   "rank": 131
+   "rank": 134
   },
   {
    "name": "post-training-of-llms",
@@ -4032,7 +4119,7 @@
    "topics": [],
    "category": "Fine-Tuning Tools",
    "momentum": 28,
-   "rank": 132
+   "rank": 135
   },
   {
    "name": "SiLLM",
@@ -4061,7 +4148,7 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 28,
-   "rank": 133
+   "rank": 136
   },
   {
    "name": "LLaVAR",
@@ -4090,7 +4177,7 @@
    ],
    "category": "Fine-Tuning Tools",
    "momentum": 27,
-   "rank": 134
+   "rank": 137
   },
   {
    "name": "finetuned-qlora-falcon7b-medical",
@@ -4099,7 +4186,7 @@
    "url": "https://github.com/iamarunbrahma/finetuned-qlora-falcon7b-medical",
    "owner": "iamarunbrahma",
    "owner_avatar": "https://avatars.githubusercontent.com/u/6504730?v=4",
-   "stars": 261,
+   "stars": 262,
    "forks": 27,
    "open_issues": 1,
    "language": "Jupyter Notebook",
@@ -4123,7 +4210,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 27,
-   "rank": 135
+   "rank": 138
   },
   {
    "name": "instruction-datasets",
@@ -4156,7 +4243,7 @@
    ],
    "category": "Training Data",
    "momentum": 27,
-   "rank": 136
+   "rank": 139
   },
   {
    "name": "Aurora",
@@ -4189,7 +4276,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 27,
-   "rank": 137
+   "rank": 140
   },
   {
    "name": "HydraLoRA",
@@ -4209,7 +4296,7 @@
    "topics": [],
    "category": "PEFT & LoRA",
    "momentum": 27,
-   "rank": 138
+   "rank": 141
   },
   {
    "name": "llama-trl",
@@ -4241,7 +4328,7 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 27,
-   "rank": 139
+   "rank": 142
   },
   {
    "name": "BiLLM",
@@ -4250,7 +4337,7 @@
    "url": "https://github.com/Aaronhuang-778/BiLLM",
    "owner": "Aaronhuang-778",
    "owner_avatar": "https://avatars.githubusercontent.com/u/71201052?v=4",
-   "stars": 236,
+   "stars": 237,
    "forks": 19,
    "open_issues": 18,
    "language": "Python",
@@ -4265,7 +4352,7 @@
    ],
    "category": "Quantize & Merge",
    "momentum": 27,
-   "rank": 140
+   "rank": 143
   },
   {
    "name": "Genome_Factory",
@@ -4293,7 +4380,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 27,
-   "rank": 141
+   "rank": 144
   },
   {
    "name": "OpenVul",
@@ -4322,7 +4409,7 @@
    ],
    "category": "Training Frameworks",
    "momentum": 27,
-   "rank": 142
+   "rank": 145
   },
   {
    "name": "Vicuna-LoRA-RLHF-PyTorch",
@@ -4356,7 +4443,7 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 26,
-   "rank": 143
+   "rank": 146
   },
   {
    "name": "awesome-adapter-resources",
@@ -4386,7 +4473,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 26,
-   "rank": 144
+   "rank": 147
   },
   {
    "name": "RPTQ4LLM",
@@ -4406,7 +4493,7 @@
    "topics": [],
    "category": "Quantize & Merge",
    "momentum": 26,
-   "rank": 145
+   "rank": 148
   },
   {
    "name": "MOELoRA-peft",
@@ -4436,7 +4523,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 26,
-   "rank": 146
+   "rank": 149
   },
   {
    "name": "AIDoctor",
@@ -4456,7 +4543,7 @@
    "topics": [],
    "category": "RLHF & Preference",
    "momentum": 26,
-   "rank": 147
+   "rank": 150
   },
   {
    "name": "llama2-lora-fine-tuning",
@@ -4481,7 +4568,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 25,
-   "rank": 148
+   "rank": 151
   },
   {
    "name": "Finetune-Qwen2.5-VL",
@@ -4510,7 +4597,7 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 25,
-   "rank": 149
+   "rank": 152
   },
   {
    "name": "notus",
@@ -4538,7 +4625,7 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 25,
-   "rank": 150
+   "rank": 153
   },
   {
    "name": "musicgen-dreamboothing",
@@ -4558,7 +4645,7 @@
    "topics": [],
    "category": "PEFT & LoRA",
    "momentum": 25,
-   "rank": 151
+   "rank": 154
   },
   {
    "name": "GOAT-PEFT",
@@ -4589,7 +4676,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 25,
-   "rank": 152
+   "rank": 155
   },
   {
    "name": "MoE-PEFT",
@@ -4614,7 +4701,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 24,
-   "rank": 153
+   "rank": 156
   },
   {
    "name": "llama-lora-fine-tuning",
@@ -4638,7 +4725,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 24,
-   "rank": 154
+   "rank": 157
   },
   {
    "name": "ChatGLM-LoRA-RLHF-PyTorch",
@@ -4673,7 +4760,7 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 24,
-   "rank": 155
+   "rank": 158
   },
   {
    "name": "Vision-LLM-Alignment",
@@ -4706,7 +4793,7 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 24,
-   "rank": 156
+   "rank": 159
   },
   {
    "name": "ComfyUI-TrainTools-MZ",
@@ -4733,7 +4820,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 24,
-   "rank": 157
+   "rank": 160
   },
   {
    "name": "ShiftAddLLM",
@@ -4753,7 +4840,7 @@
    "topics": [],
    "category": "Fine-Tuning Tools",
    "momentum": 23,
-   "rank": 158
+   "rank": 161
   },
   {
    "name": "flora-opt",
@@ -4784,7 +4871,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 23,
-   "rank": 159
+   "rank": 162
   },
   {
    "name": "QwenImageEdit_MultiGPU",
@@ -4804,7 +4891,7 @@
    "topics": [],
    "category": "PEFT & LoRA",
    "momentum": 23,
-   "rank": 160
+   "rank": 163
   },
   {
    "name": "LLM-Post-Training",
@@ -4824,7 +4911,27 @@
    "topics": [],
    "category": "Fine-Tuning Tools",
    "momentum": 23,
-   "rank": 161
+   "rank": 164
+  },
+  {
+   "name": "Reinforce-Ada",
+   "full_name": "RLHFlow/Reinforce-Ada",
+   "slug": "rlhflow-reinforce-ada",
+   "url": "https://github.com/RLHFlow/Reinforce-Ada",
+   "owner": "RLHFlow",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/168386484?v=4",
+   "stars": 96,
+   "forks": 17,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2025-11-29T14:48:34Z",
+   "created_at": "2025-10-04T16:49:10Z",
+   "description": "[COLM 2026] An adaptive sampling framework for Reinforce-style LLM post training.",
+   "topics": [],
+   "category": "Training Frameworks",
+   "momentum": 22,
+   "rank": 165
   },
   {
    "name": "personalforge",
@@ -4855,28 +4962,8 @@
     "unsloth"
    ],
    "category": "PEFT & LoRA",
-   "momentum": 23,
-   "rank": 162
-  },
-  {
-   "name": "Reinforce-Ada",
-   "full_name": "RLHFlow/Reinforce-Ada",
-   "slug": "rlhflow-reinforce-ada",
-   "url": "https://github.com/RLHFlow/Reinforce-Ada",
-   "owner": "RLHFlow",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/168386484?v=4",
-   "stars": 96,
-   "forks": 17,
-   "open_issues": 0,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2025-11-29T14:48:34Z",
-   "created_at": "2025-10-04T16:49:10Z",
-   "description": "[COLM 2026] An adaptive sampling framework for Reinforce-style LLM post training.",
-   "topics": [],
-   "category": "Training Frameworks",
    "momentum": 22,
-   "rank": 163
+   "rank": 166
   },
   {
    "name": "Fine-Tuning-LLMs-for-Medical-Entity-Extraction",
@@ -4902,7 +4989,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 22,
-   "rank": 164
+   "rank": 167
   },
   {
    "name": "Disentangling-Memory-and-Reasoning",
@@ -4922,7 +5009,7 @@
    "topics": [],
    "category": "PEFT & LoRA",
    "momentum": 22,
-   "rank": 165
+   "rank": 168
   },
   {
    "name": "MM-UPT",
@@ -4946,7 +5033,7 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 22,
-   "rank": 166
+   "rank": 169
   },
   {
    "name": "LLM-Pretrain-SFT",
@@ -4973,7 +5060,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 22,
-   "rank": 167
+   "rank": 170
   },
   {
    "name": "FinetuneGLMWithPeft",
@@ -4993,7 +5080,7 @@
    "topics": [],
    "category": "PEFT & LoRA",
    "momentum": 22,
-   "rank": 168
+   "rank": 171
   },
   {
    "name": "LLM-Engineering-Foundations-to-SLMs-Open-Source",
@@ -5013,7 +5100,7 @@
    "topics": [],
    "category": "Distillation",
    "momentum": 22,
-   "rank": 169
+   "rank": 172
   },
   {
    "name": "BERT-LoRA-TensorRT",
@@ -5033,7 +5120,7 @@
    "topics": [],
    "category": "PEFT & LoRA",
    "momentum": 21,
-   "rank": 170
+   "rank": 173
   },
   {
    "name": "FinLoRA",
@@ -5053,7 +5140,7 @@
    "topics": [],
    "category": "PEFT & LoRA",
    "momentum": 21,
-   "rank": 171
+   "rank": 174
   },
   {
    "name": "learning-from-rewards-llm-papers",
@@ -5086,7 +5173,7 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 21,
-   "rank": 172
+   "rank": 175
   },
   {
    "name": "Finetune_GPT-J_6B_8-bit",
@@ -5106,7 +5193,7 @@
    "topics": [],
    "category": "PEFT & LoRA",
    "momentum": 21,
-   "rank": 173
+   "rank": 176
   },
   {
    "name": "gpt-j-fine-tuning-example",
@@ -5142,7 +5229,7 @@
    ],
    "category": "PEFT & LoRA",
    "momentum": 21,
-   "rank": 174
+   "rank": 177
   },
   {
    "name": "Post-Training-Data-Flywheel",
@@ -5162,7 +5249,7 @@
    "topics": [],
    "category": "Fine-Tuning Tools",
    "momentum": 21,
-   "rank": 175
+   "rank": 178
   },
   {
    "name": "MyTransformers",
@@ -5182,7 +5269,7 @@
    "topics": [],
    "category": "RLHF & Preference",
    "momentum": 21,
-   "rank": 176
+   "rank": 179
   },
   {
    "name": "RWKV-LM-RLHF",
@@ -5202,7 +5289,7 @@
    "topics": [],
    "category": "RLHF & Preference",
    "momentum": 20,
-   "rank": 177
+   "rank": 180
   },
   {
    "name": "Awesome-Data-Efficient-LLM",
@@ -5230,7 +5317,7 @@
    ],
    "category": "Collections",
    "momentum": 20,
-   "rank": 178
+   "rank": 181
   },
   {
    "name": "L2M",
@@ -5258,7 +5345,7 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 20,
-   "rank": 179
+   "rank": 182
   },
   {
    "name": "skippipe",
@@ -5278,7 +5365,7 @@
    "topics": [],
    "category": "Training Frameworks",
    "momentum": 19,
-   "rank": 180
+   "rank": 183
   },
   {
    "name": "Principles-of-AI-LLMs",
@@ -5315,7 +5402,7 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 19,
-   "rank": 181
+   "rank": 184
   },
   {
    "name": "LLM-Ko-Datasets",
@@ -5335,7 +5422,7 @@
    "topics": [],
    "category": "RLHF & Preference",
    "momentum": 19,
-   "rank": 182
+   "rank": 185
   },
   {
    "name": "cs336_assignment-5",
@@ -5355,7 +5442,7 @@
    "topics": [],
    "category": "RLHF & Preference",
    "momentum": 18,
-   "rank": 183
+   "rank": 186
   },
   {
    "name": "PipelineLLM",
@@ -5387,7 +5474,7 @@
    ],
    "category": "RLHF & Preference",
    "momentum": 18,
-   "rank": 184
+   "rank": 187
   },
   {
    "name": "TBA",
@@ -5407,27 +5494,7 @@
    "topics": [],
    "category": "Fine-Tuning Tools",
    "momentum": 17,
-   "rank": 185
-  },
-  {
-   "name": "q_sharp",
-   "full_name": "jinpz/q_sharp",
-   "slug": "jinpz-q-sharp",
-   "url": "https://github.com/jinpz/q_sharp",
-   "owner": "jinpz",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/26843459?v=4",
-   "stars": 21,
-   "forks": 1,
-   "open_issues": 0,
-   "language": "Python",
-   "license": "",
-   "pushed_at": "2025-03-04T05:42:22Z",
-   "created_at": "2025-03-04T05:41:45Z",
-   "description": "The official code release for Q#: Provably Optimal Distributional RL for LLM Post-Training",
-   "topics": [],
-   "category": "Fine-Tuning Tools",
-   "momentum": 15,
-   "rank": 186
+   "rank": 188
   }
  ]
 }
