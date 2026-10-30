@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T21:34:41.288758+00:00",
+ "generated_at": "2026-10-30T21:55:47.601245+00:00",
  "count": 184,
  "categories": [
   {
@@ -43,12 +43,12 @@
    "url": "https://github.com/unslothai/unsloth",
    "owner": "unslothai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/150920049?v=4",
-   "stars": 78823,
+   "stars": 78825,
    "forks": 7324,
-   "open_issues": 453,
+   "open_issues": 455,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-10-30T21:20:01Z",
+   "pushed_at": "2026-10-30T21:49:33Z",
    "created_at": "2023-11-29T16:50:09Z",
    "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
    "topics": [
@@ -115,7 +115,7 @@
     "transformers"
    ],
    "category": "RLHF & Preference",
-   "momentum": 87,
+   "momentum": 86,
    "rank": 2
   },
   {
@@ -561,7 +561,7 @@
    "open_issues": 908,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-10-30T21:11:15Z",
+   "pushed_at": "2026-10-30T21:49:17Z",
    "created_at": "2025-10-09T06:04:57Z",
    "description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
    "topics": [],
@@ -779,7 +779,7 @@
    "open_issues": 490,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-10-30T21:24:57Z",
+   "pushed_at": "2026-10-30T21:40:57Z",
    "created_at": "2023-02-28T19:47:29Z",
    "description": "A simple, performant, and scalable Jax LLM!",
    "topics": [
@@ -850,7 +850,7 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/33164907?v=4",
    "stars": 2267,
    "forks": 1097,
-   "open_issues": 241,
+   "open_issues": 242,
    "language": "Go",
    "license": "Apache-2.0",
    "pushed_at": "2026-10-30T21:34:05Z",
@@ -884,7 +884,7 @@
    "url": "https://github.com/NVIDIA-NeMo/Nemotron",
    "owner": "NVIDIA-NeMo",
    "owner_avatar": "https://avatars.githubusercontent.com/u/213689629?v=4",
-   "stars": 2251,
+   "stars": 2252,
    "forks": 463,
    "open_issues": 95,
    "language": "Jupyter Notebook",
@@ -1035,7 +1035,7 @@
    "url": "https://github.com/Ta0p1/ResolveLab",
    "owner": "Ta0p1",
    "owner_avatar": "https://avatars.githubusercontent.com/u/171677071?v=4",
-   "stars": 88,
+   "stars": 90,
    "forks": 0,
    "open_issues": 1,
    "language": "Python",
@@ -1948,7 +1948,7 @@
    "open_issues": 63,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-10-30T21:19:12Z",
+   "pushed_at": "2026-10-30T21:45:11Z",
    "created_at": "2026-04-16T20:19:20Z",
    "description": "Get started with LLM post-training on Modal.",
    "topics": [],
