@@ -21,17 +21,17 @@
   <url><loc>https://finetune.kymatalabs.com/p/furkangozukara-stable-diffusion/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://finetune.kymatalabs.com/p/roboflow-maestro/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://finetune.kymatalabs.com/p/stochasticai-xturing/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://finetune.kymatalabs.com/p/pykeio-ort/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://finetune.kymatalabs.com/p/google-tunix/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://finetune.kymatalabs.com/p/ai-hypercomputer-maxtext/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://finetune.kymatalabs.com/p/dstackai-dstack/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://finetune.kymatalabs.com/p/kubeflow-trainer/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://finetune.kymatalabs.com/p/nvidia-nemo-nemotron/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://finetune.kymatalabs.com/p/pykeio-ort/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://finetune.kymatalabs.com/p/calmrocks-ai-engineer-notebooks/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://finetune.kymatalabs.com/p/modelcloud-gptqmodel/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://finetune.kymatalabs.com/p/shibing624-medicalgpt/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://finetune.kymatalabs.com/p/agilerl-agilerl/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://finetune.kymatalabs.com/p/ta0p1-resolvelab/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://finetune.kymatalabs.com/p/agilerl-agilerl/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://finetune.kymatalabs.com/p/georgian-io-llm-finetuning-toolkit/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://finetune.kymatalabs.com/p/baidu-baige-loongforge/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://finetune.kymatalabs.com/p/shootthesound-fizgig/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -61,11 +61,11 @@
   <url><loc>https://finetune.kymatalabs.com/p/curated-awesome-lists-awesome-llms-fine-tuning/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://finetune.kymatalabs.com/p/timoncool-voxcpm2-portable/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://finetune.kymatalabs.com/p/modal-projects-modal-dojo/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://finetune.kymatalabs.com/p/hscspring-llm-post-training-atlas/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://finetune.kymatalabs.com/p/sergiotermann-awesome-post-training-rl/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://finetune.kymatalabs.com/p/lexsi-labs-aligntune/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://finetune.kymatalabs.com/p/saivineeth147-lora-speedrun/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://finetune.kymatalabs.com/p/beanie00-self-distillation-analysis/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://finetune.kymatalabs.com/p/hscspring-llm-post-training-atlas/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://finetune.kymatalabs.com/p/yangqi0-petitgpt/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://finetune.kymatalabs.com/p/haotian-liu-llava/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://finetune.kymatalabs.com/p/zhoujx4-llm-atlas/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
