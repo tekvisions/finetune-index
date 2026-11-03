@@ -1,0 +1,60 @@
+{
+  "host": "finetune.kymatalabs.com",
+  "reviewed_on": "2026-11-03",
+  "title": "Choose fine-tuning tools after defining the target behavior",
+  "answer": "Clarify whether the task needs model adaptation, preference training, data preparation, distillation or packaging an already trained model. These catalog roles overlap but their outcomes are not interchangeable.",
+  "choices": [
+    {
+      "categories": [
+        "PEFT & LoRA",
+        "Fine-Tuning Tools",
+        "Training Frameworks"
+      ],
+      "task": "Adapt a model",
+      "guidance": "Confirm support for the exact base model, data format and training method. Document hardware, checkpoint and reproducibility constraints before starting."
+    },
+    {
+      "categories": [
+        "RLHF & Preference",
+        "Training Data"
+      ],
+      "task": "Change behavior using feedback or examples",
+      "guidance": "Define the desired behavior and reviewed data. Keep a held-out evaluation set and check regressions beyond the targeted examples."
+    },
+    {
+      "categories": [
+        "Distillation",
+        "Quantize & Merge"
+      ],
+      "task": "Prepare an adapted model for use",
+      "guidance": "Distinguish distillation, weight merging and quantization. Verify the resulting artifact in the inference runtime you will use."
+    }
+  ],
+  "checks": [
+    "Check base-model, training-data and tool licenses from their separate sources.",
+    "Record the full recipe and compare held-out task behavior against an unchanged baseline.",
+    "Verify checkpoint export and inference compatibility rather than assuming successful training is sufficient."
+  ],
+  "unknowns": "Training quality gains, compute requirements, licensing compatibility and inference speed are not independently established by this index.",
+  "related": [
+    {
+      "url": "https://dataset.kymatalabs.com/",
+      "label": "dataset"
+    },
+    {
+      "url": "https://eval.kymatalabs.com/",
+      "label": "eval"
+    },
+    {
+      "url": "https://localllm.kymatalabs.com/",
+      "label": "localllm"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Published collection and scoring rules",
+      "url": "https://github.com/tekvisions/finetune-index/blob/316c2a5b4875d46d12091fae01ff762d4addc591/build_data.py",
+      "reviewed_on": "2026-11-03"
+    }
+  ]
+}
