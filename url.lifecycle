@@ -190,8 +190,28 @@
     "https://finetune.kymatalabs.com/p/heng380-cs336-assignment-5/",
     "https://finetune.kymatalabs.com/p/ibacklight-pipelinellm/"
   ],
-  "retained_references": [],
+  "retained_references": [
+    {
+      "slug": "hscspring-llm-post-training-atlas",
+      "entity": "hscspring/llm-post-training-atlas",
+      "canonical_url": "https://finetune.kymatalabs.com/p/hscspring-llm-post-training-atlas/",
+      "repository": "https://github.com/hscspring/post-training-atlas",
+      "summary": "A curated map of model post-training research. The repository moved from hscspring/llm-post-training-atlas to hscspring/post-training-atlas (GitHub ID 907159620).",
+      "selection_context": "Use this dated reference to locate the publisher documentation and compare the documented scope; consult the current catalog for ranked entries.",
+      "limitations": "Verify current publisher terms, compatibility and requirements. No new runtime, safety, quality or benchmark test is claimed.",
+      "last_catalog_snapshot": "2026-11-02T19:26:39.216988+00:00",
+      "reviewed_on": "2026-11-04",
+      "primary_sources": [
+        {
+          "url": "https://github.com/hscspring/post-training-atlas/blob/main/README.md",
+          "title": "Publisher documentation"
+        }
+      ]
+    }
+  ],
   "retirements": [],
   "planned_release_urls": [],
-  "baseline_maintenance": "This captured baseline and proposed additions are explicit release inputs, not a rolling publication log. After each authorized release, refresh the protected baseline from verified published sitemaps before reviewing the next snapshot; keep capture provenance separate."
+  "baseline_maintenance": "This captured baseline and proposed additions are explicit release inputs, not a rolling publication log. After each authorized release, refresh the protected baseline from verified published sitemaps before reviewing the next snapshot; keep capture provenance separate.",
+  "site_name": "The Fine-Tuning Index",
+  "detail_prefix": "p"
 }
