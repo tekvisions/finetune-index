@@ -2,7 +2,7 @@
 
 > The Fine-Tuning Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-05T17:20:33.027794+00:00
+Snapshot collected: 2026-11-06T17:25:27.023153+00:00
 Current catalog records: 184
 
 ## Sources and interpretation
@@ -45,11 +45,11 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [google/tunix](https://finetune.kymatalabs.com/p/google-tunix/) — Fine-Tuning Tools
 - [AI-Hypercomputer/maxtext](https://finetune.kymatalabs.com/p/ai-hypercomputer-maxtext/) — Fine-Tuning Tools
 - [dstackai/dstack](https://finetune.kymatalabs.com/p/dstackai-dstack/) — Fine-Tuning Tools
+- [NVIDIA-NeMo/Nemotron](https://finetune.kymatalabs.com/p/nvidia-nemo-nemotron/) — RLHF & Preference
 - [kubeflow/trainer](https://finetune.kymatalabs.com/p/kubeflow-trainer/) — Training Frameworks
 - [whitecircle/halo](https://finetune.kymatalabs.com/p/whitecircle-halo/) — RLHF & Preference
-- [NVIDIA-NeMo/Nemotron](https://finetune.kymatalabs.com/p/nvidia-nemo-nemotron/) — RLHF & Preference
-- [calmrocks/ai-engineer-notebooks](https://finetune.kymatalabs.com/p/calmrocks-ai-engineer-notebooks/) — PEFT & LoRA
 - [ModelCloud/GPTQModel](https://finetune.kymatalabs.com/p/modelcloud-gptqmodel/) — RLHF & Preference
+- [calmrocks/ai-engineer-notebooks](https://finetune.kymatalabs.com/p/calmrocks-ai-engineer-notebooks/) — PEFT & LoRA
 - [AgileRL/AgileRL](https://finetune.kymatalabs.com/p/agilerl-agilerl/) — RLHF & Preference
 - [Ta0p1/ResolveLab](https://finetune.kymatalabs.com/p/ta0p1-resolvelab/) — Fine-Tuning Tools
 - [shibing624/MedicalGPT](https://finetune.kymatalabs.com/p/shibing624-medicalgpt/) — RLHF & Preference
@@ -59,9 +59,9 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [kaito-project/aikit](https://finetune.kymatalabs.com/p/kaito-project-aikit/) — Fine-Tuning Tools
 - [vllm-project/vime](https://finetune.kymatalabs.com/p/vllm-project-vime/) — Training Frameworks
 - [IntelLabs/RAG-FiT](https://finetune.kymatalabs.com/p/intellabs-rag-fit/) — Training Frameworks
-- [DaoyuanLi2816/can-i-finetune-this](https://finetune.kymatalabs.com/p/daoyuanli2816-can-i-finetune-this/) — PEFT & LoRA
+- [snowflakedb/ArcticTraining](https://finetune.kymatalabs.com/p/snowflakedb-arctictraining/) — Training Frameworks
+- [inclusionAI/TorchTurbo](https://finetune.kymatalabs.com/p/inclusionai-torchturbo/) — Fine-Tuning Tools
 - [mbzuai-oryx/Awesome-LLM-Post-training](https://finetune.kymatalabs.com/p/mbzuai-oryx-awesome-llm-post-training/) — RLHF & Preference
-- [agentscope-ai/Trinity-RFT](https://finetune.kymatalabs.com/p/agentscope-ai-trinity-rft/) — RLHF & Preference
 
 <!-- Kymata discovery capabilities -->
 ## Mission and scope
