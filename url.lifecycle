@@ -207,6 +207,27 @@
           "title": "Publisher documentation"
         }
       ]
+    },
+    {
+      "slug": "gke-labs-open-rl",
+      "entity": "gke-labs/open-rl",
+      "canonical_url": "https://finetune.kymatalabs.com/p/gke-labs-open-rl/",
+      "repository": "https://github.com/openrl-dev/openrl",
+      "summary": "The former gke-labs/open-rl repository now resolves to openrl-dev/openrl. OpenRL documents a self-hosted, Tinker-compatible API for language-model post-training.",
+      "selection_context": "Trace the repository move and compare self-hosted training API requirements.",
+      "limitations": "Check GPU infrastructure, supported SDK versions and training configuration; API compatibility, utilization and model-quality claims were not independently tested.",
+      "last_catalog_snapshot": "2026-11-05T17:20:33.027794+00:00",
+      "reviewed_on": "2026-11-06",
+      "last_successful_source_commit": "595384565b630abc1cf7d4075f9f2504bda11b81",
+      "decision": "retain published route as a dated unranked reference when absent from current discovery",
+      "primary_sources": [
+        {
+          "url": "https://github.com/openrl-dev/openrl/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "3179d36d5bf940e9d8aed6cc8cb301112d0d8df2ebf059c810242657be8a7975",
+          "blob_sha": "01711eb6360814ae0efd30c0c2f0e69e6a813916"
+        }
+      ]
     }
   ],
   "retirements": [],
