@@ -47,6 +47,7 @@ jobs:
           python -m unittest discover -s tests -p test_public_assets.py
           python -m unittest discover -s tests -p test_site_quality.py
           python -m unittest discover -s tests -p test_indexnow_backoff.py
+          python -m unittest discover -s tests -p test_deploy_retry.py
           python public_assets.py --seal
 
       - name: Commit if changed
