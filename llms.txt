@@ -2,7 +2,7 @@
 
 > The Fine-Tuning Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-08T15:56:11.835619+00:00
+Snapshot collected: 2026-11-09T19:45:15.147728+00:00
 Current catalog records: 184
 
 ## Sources and interpretation
@@ -26,42 +26,42 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [hiyouga/LlamaFactory](https://finetune.kymatalabs.com/p/hiyouga-llamafactory/) — RLHF & Preference
 - [huggingface/peft](https://finetune.kymatalabs.com/p/huggingface-peft/) — PEFT & LoRA
 - [modelscope/ms-swift](https://finetune.kymatalabs.com/p/modelscope-ms-swift/) — RLHF & Preference
-- [dipakkr/awesome-ai-engineering](https://finetune.kymatalabs.com/p/dipakkr-awesome-ai-engineering/) — Collections
 - [axolotl-ai-cloud/axolotl](https://finetune.kymatalabs.com/p/axolotl-ai-cloud-axolotl/) — Training Frameworks
 - [bentoml/OpenLLM](https://finetune.kymatalabs.com/p/bentoml-openllm/) — RLHF & Preference
-- [ludwig-ai/ludwig](https://finetune.kymatalabs.com/p/ludwig-ai-ludwig/) — Training Frameworks
+- [dipakkr/awesome-ai-engineering](https://finetune.kymatalabs.com/p/dipakkr-awesome-ai-engineering/) — Collections
 - [MakazhanAlpamys/Soup](https://finetune.kymatalabs.com/p/makazhanalpamys-soup/) — RLHF & Preference
 - [oumi-ai/oumi](https://finetune.kymatalabs.com/p/oumi-ai-oumi/) — RLHF & Preference
-- [h2oai/h2o-llmstudio](https://finetune.kymatalabs.com/p/h2oai-h2o-llmstudio/) — Training Frameworks
+- [ludwig-ai/ludwig](https://finetune.kymatalabs.com/p/ludwig-ai-ludwig/) — Training Frameworks
 - [Kiln-AI/Kiln](https://finetune.kymatalabs.com/p/kiln-ai-kiln/) — RLHF & Preference
+- [h2oai/h2o-llmstudio](https://finetune.kymatalabs.com/p/h2oai-h2o-llmstudio/) — Training Frameworks
 - [amitshekhariitbhu/ai-engineering-interview-questions](https://finetune.kymatalabs.com/p/amitshekhariitbhu-ai-engineering-interview-questions/) — Quantize & Merge
 - [radixark/miles](https://finetune.kymatalabs.com/p/radixark-miles/) — RLHF & Preference
 - [Nerogar/OneTrainer](https://finetune.kymatalabs.com/p/nerogar-onetrainer/) — PEFT & LoRA
+- [roboflow/maestro](https://finetune.kymatalabs.com/p/roboflow-maestro/) — Fine-Tuning Tools
 - [bghira/SimpleTuner](https://finetune.kymatalabs.com/p/bghira-simpletuner/) — Fine-Tuning Tools
-- [FurkanGozukara/Stable-Diffusion](https://finetune.kymatalabs.com/p/furkangozukara-stable-diffusion/) — PEFT & LoRA
 - [stochasticai/xTuring](https://finetune.kymatalabs.com/p/stochasticai-xturing/) — PEFT & LoRA
 - [google/tunix](https://finetune.kymatalabs.com/p/google-tunix/) — Fine-Tuning Tools
 - [AI-Hypercomputer/maxtext](https://finetune.kymatalabs.com/p/ai-hypercomputer-maxtext/) — Fine-Tuning Tools
+- [dstackai/dstack](https://finetune.kymatalabs.com/p/dstackai-dstack/) — Fine-Tuning Tools
 - [whitecircle/halo](https://finetune.kymatalabs.com/p/whitecircle-halo/) — RLHF & Preference
-- [roboflow/maestro](https://finetune.kymatalabs.com/p/roboflow-maestro/) — Fine-Tuning Tools
+- [FurkanGozukara/Stable-Diffusion](https://finetune.kymatalabs.com/p/furkangozukara-stable-diffusion/) — PEFT & LoRA
 - [pykeio/ort](https://finetune.kymatalabs.com/p/pykeio-ort/) — Fine-Tuning Tools
 - [NVIDIA-NeMo/Nemotron](https://finetune.kymatalabs.com/p/nvidia-nemo-nemotron/) — RLHF & Preference
-- [dstackai/dstack](https://finetune.kymatalabs.com/p/dstackai-dstack/) — Fine-Tuning Tools
 - [kubeflow/trainer](https://finetune.kymatalabs.com/p/kubeflow-trainer/) — Training Frameworks
 - [ModelCloud/GPTQModel](https://finetune.kymatalabs.com/p/modelcloud-gptqmodel/) — RLHF & Preference
-- [InternScience/GraphGen](https://finetune.kymatalabs.com/p/internscience-graphgen/) — Training Data
 - [calmrocks/ai-engineer-notebooks](https://finetune.kymatalabs.com/p/calmrocks-ai-engineer-notebooks/) — PEFT & LoRA
+- [InternScience/GraphGen](https://finetune.kymatalabs.com/p/internscience-graphgen/) — Training Data
 - [AgileRL/AgileRL](https://finetune.kymatalabs.com/p/agilerl-agilerl/) — RLHF & Preference
-- [Ta0p1/ResolveLab](https://finetune.kymatalabs.com/p/ta0p1-resolvelab/) — Fine-Tuning Tools
 - [shibing624/MedicalGPT](https://finetune.kymatalabs.com/p/shibing624-medicalgpt/) — RLHF & Preference
 - [baidu-baige/LoongForge](https://finetune.kymatalabs.com/p/baidu-baige-loongforge/) — RLHF & Preference
+- [Ta0p1/ResolveLab](https://finetune.kymatalabs.com/p/ta0p1-resolvelab/) — Fine-Tuning Tools
 - [shootthesound/Fizgig](https://finetune.kymatalabs.com/p/shootthesound-fizgig/) — PEFT & LoRA
-- [georgian-io/LLM-Finetuning-Toolkit](https://finetune.kymatalabs.com/p/georgian-io-llm-finetuning-toolkit/) — PEFT & LoRA
 - [kaito-project/aikit](https://finetune.kymatalabs.com/p/kaito-project-aikit/) — Fine-Tuning Tools
+- [georgian-io/LLM-Finetuning-Toolkit](https://finetune.kymatalabs.com/p/georgian-io-llm-finetuning-toolkit/) — PEFT & LoRA
 - [vllm-project/vime](https://finetune.kymatalabs.com/p/vllm-project-vime/) — Training Frameworks
 - [aibuildai-inc/aibuildai-llm-posttrain-agent](https://finetune.kymatalabs.com/p/aibuildai-inc-aibuildai-llm-posttrain-agent/) — Fine-Tuning Tools
 - [IntelLabs/RAG-FiT](https://finetune.kymatalabs.com/p/intellabs-rag-fit/) — Training Frameworks
-- [inclusionAI/TorchTurbo](https://finetune.kymatalabs.com/p/inclusionai-torchturbo/) — Fine-Tuning Tools
+- [mbzuai-oryx/Awesome-LLM-Post-training](https://finetune.kymatalabs.com/p/mbzuai-oryx-awesome-llm-post-training/) — RLHF & Preference
 
 <!-- Kymata discovery capabilities -->
 ## Mission and scope
