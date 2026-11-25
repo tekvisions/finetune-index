@@ -2,7 +2,7 @@
 
 > The Fine-Tuning Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-25T21:00:05.338073+00:00
+Snapshot collected: 2026-11-25T22:04:19.756335+00:00
 Current catalog records: 185
 
 ## Sources and interpretation
