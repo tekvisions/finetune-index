@@ -228,6 +228,113 @@
           "blob_sha": "01711eb6360814ae0efd30c0c2f0e69e6a813916"
         }
       ]
+    },
+    {
+      "slug": "decodingai-magazine-second-brain-ai-assistant-course",
+      "entity": "decodingai-magazine/second-brain-ai-assistant-course",
+      "canonical_url": "https://finetune.kymatalabs.com/p/decodingai-magazine-second-brain-ai-assistant-course/",
+      "repository": "https://github.com/itsdecodingai/second-brain-ai-assistant-course",
+      "summary": "Publisher description of decodingai-magazine/second-brain-ai-assistant-course: Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques. The saved 2026-11-10 catalog classified it under Fine-Tuning Tools.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Fine-Tuning Tools work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements. GitHub now resolves decodingai-magazine/second-brain-ai-assistant-course to itsdecodingai/second-brain-ai-assistant-course. Confirm the current scope under that name.",
+      "last_catalog_snapshot": "2026-11-10T16:59:44.728714+00:00",
+      "reviewed_on": "2026-11-25",
+      "last_successful_source_commit": "549bac158896c98b65e16b203e2c66234a050258",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "previous_repository": "https://github.com/decodingai-magazine/second-brain-ai-assistant-course",
+      "primary_sources": [
+        {
+          "url": "https://github.com/itsdecodingai/second-brain-ai-assistant-course/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "5bccc10ae1ee36f1a75c942ae748194aad6852a5e11c9c47f4cc131ad835eb1d",
+          "blob_sha": "9bcf69dbb9b702efb75f7b5b4c269d4f0375d2df"
+        }
+      ]
+    },
+    {
+      "slug": "gudaochangsheng-wadi",
+      "entity": "gudaochangsheng/WaDi",
+      "canonical_url": "https://finetune.kymatalabs.com/p/gudaochangsheng-wadi/",
+      "repository": "https://github.com/gudaochangsheng/WaDi",
+      "summary": "Publisher description of gudaochangsheng/WaDi: [CVPR 2026] Official PyTorch implementation of WaDi: Weight Direction-aware Distillation for One-step Image Synthesis. The saved 2026-11-10 catalog classified it under PEFT & LoRA.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for PEFT & LoRA work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-10T16:59:44.728714+00:00",
+      "reviewed_on": "2026-11-25",
+      "last_successful_source_commit": "549bac158896c98b65e16b203e2c66234a050258",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/gudaochangsheng/WaDi/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "581c66b56ed9526a2e874e72170223cf48fbd6120365f3477317030e93acb3a1",
+          "blob_sha": "1c09088964ff63b6f8d038e1ac11c073694cc2a9"
+        }
+      ]
+    },
+    {
+      "slug": "lexsi-labs-curatorkit",
+      "entity": "Lexsi-Labs/CuratorKIT",
+      "canonical_url": "https://finetune.kymatalabs.com/p/lexsi-labs-curatorkit/",
+      "repository": "https://github.com/Lexsi-Labs/CuratorKIT",
+      "summary": "Publisher description of Lexsi-Labs/CuratorKIT: CuratorKIT : Data curation and synthetic data generation for LLM post-training. The saved 2026-11-10 catalog classified it under Training Data.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Training Data work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-10T16:59:44.728714+00:00",
+      "reviewed_on": "2026-11-25",
+      "last_successful_source_commit": "549bac158896c98b65e16b203e2c66234a050258",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/Lexsi-Labs/CuratorKIT/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "f791db6604bb28148fee5e3c3d6aef5eff2a9a1f5272c6de133958ba172cee7d",
+          "blob_sha": "d9a6d043a479a595649085477d86d848708d1368"
+        }
+      ]
+    },
+    {
+      "slug": "messix77-qdlm",
+      "entity": "MessiX77/QDLM",
+      "canonical_url": "https://finetune.kymatalabs.com/p/messix77-qdlm/",
+      "repository": "https://github.com/MessiX77/QDLM",
+      "summary": "Publisher description of MessiX77/QDLM: [MIR🎉] Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs. The saved 2026-11-10 catalog classified it under Quantize & Merge.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Quantize & Merge work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-10T16:59:44.728714+00:00",
+      "reviewed_on": "2026-11-25",
+      "last_successful_source_commit": "549bac158896c98b65e16b203e2c66234a050258",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/MessiX77/QDLM/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "974629fb376dc84844180adb2bfc12acaa43dc398aa8e27fdfc04ec5c6b72ac8",
+          "blob_sha": "1d90742ae2d53509abd121abe891c4e2300a6dad"
+        }
+      ]
+    },
+    {
+      "slug": "modal-projects-modal-dojo",
+      "entity": "modal-projects/modal-dojo",
+      "canonical_url": "https://finetune.kymatalabs.com/p/modal-projects-modal-dojo/",
+      "repository": "https://github.com/modal-labs/modal-dojo",
+      "summary": "Publisher description of modal-projects/modal-dojo: Get started with LLM post-training on Modal. The saved 2026-11-10 catalog classified it under Fine-Tuning Tools.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Fine-Tuning Tools work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements. GitHub now resolves modal-projects/modal-dojo to modal-labs/modal-dojo. Confirm the current scope under that name.",
+      "last_catalog_snapshot": "2026-11-10T16:59:44.728714+00:00",
+      "reviewed_on": "2026-11-25",
+      "last_successful_source_commit": "549bac158896c98b65e16b203e2c66234a050258",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "previous_repository": "https://github.com/modal-projects/modal-dojo",
+      "primary_sources": [
+        {
+          "url": "https://github.com/modal-labs/modal-dojo/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "e5d7b9087fdc4663d6d232b20671e357bcc4a163871b1fc7ecb0bb1fe9ba8a20",
+          "blob_sha": "1e550815d1a6223c5fe50202e9f3a059e89dea9a"
+        }
+      ]
     }
   ],
   "retirements": [],
