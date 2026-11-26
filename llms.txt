@@ -2,7 +2,7 @@
 
 > The Fine-Tuning Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-25T22:04:19.756335+00:00
+Snapshot collected: 2026-11-26T18:58:26.171340+00:00
 Current catalog records: 185
 
 ## Sources and interpretation
@@ -38,14 +38,14 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [radixark/miles](https://finetune.kymatalabs.com/p/radixark-miles/) — RLHF & Preference
 - [Nerogar/OneTrainer](https://finetune.kymatalabs.com/p/nerogar-onetrainer/) — PEFT & LoRA
 - [bghira/SimpleTuner](https://finetune.kymatalabs.com/p/bghira-simpletuner/) — Fine-Tuning Tools
-- [FurkanGozukara/Stable-Diffusion](https://finetune.kymatalabs.com/p/furkangozukara-stable-diffusion/) — PEFT & LoRA
 - [roboflow/maestro](https://finetune.kymatalabs.com/p/roboflow-maestro/) — Fine-Tuning Tools
 - [pykeio/ort](https://finetune.kymatalabs.com/p/pykeio-ort/) — Fine-Tuning Tools
 - [google/tunix](https://finetune.kymatalabs.com/p/google-tunix/) — Fine-Tuning Tools
 - [AI-Hypercomputer/maxtext](https://finetune.kymatalabs.com/p/ai-hypercomputer-maxtext/) — Fine-Tuning Tools
-- [NVIDIA-NeMo/Nemotron](https://finetune.kymatalabs.com/p/nvidia-nemo-nemotron/) — RLHF & Preference
 - [dstackai/dstack](https://finetune.kymatalabs.com/p/dstackai-dstack/) — Fine-Tuning Tools
 - [kubeflow/trainer](https://finetune.kymatalabs.com/p/kubeflow-trainer/) — Training Frameworks
+- [FurkanGozukara/Stable-Diffusion](https://finetune.kymatalabs.com/p/furkangozukara-stable-diffusion/) — PEFT & LoRA
+- [NVIDIA-NeMo/Nemotron](https://finetune.kymatalabs.com/p/nvidia-nemo-nemotron/) — RLHF & Preference
 - [whitecircle/halo](https://finetune.kymatalabs.com/p/whitecircle-halo/) — RLHF & Preference
 - [stochasticai/xTuring](https://finetune.kymatalabs.com/p/stochasticai-xturing/) — PEFT & LoRA
 - [ModelCloud/GPTQModel](https://finetune.kymatalabs.com/p/modelcloud-gptqmodel/) — RLHF & Preference
@@ -53,13 +53,13 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [AgileRL/AgileRL](https://finetune.kymatalabs.com/p/agilerl-agilerl/) — RLHF & Preference
 - [baidu-baige/LoongForge](https://finetune.kymatalabs.com/p/baidu-baige-loongforge/) — RLHF & Preference
 - [georgian-io/LLM-Finetuning-Toolkit](https://finetune.kymatalabs.com/p/georgian-io-llm-finetuning-toolkit/) — PEFT & LoRA
-- [agentic-learning-ai-lab/deleting-weights](https://finetune.kymatalabs.com/p/agentic-learning-ai-lab-deleting-weights/) — Fine-Tuning Tools
 - [shootthesound/Fizgig](https://finetune.kymatalabs.com/p/shootthesound-fizgig/) — PEFT & LoRA
+- [agentic-learning-ai-lab/deleting-weights](https://finetune.kymatalabs.com/p/agentic-learning-ai-lab-deleting-weights/) — Fine-Tuning Tools
 - [TabethaBult399205/virtual-card-usdt-finetuning-lora-rlhf-compute-vcc](https://finetune.kymatalabs.com/p/tabethabult399205-virtual-card-usdt-finetuning-lora-rlhf-compute-vcc/) — RLHF & Preference
-- [shibing624/MedicalGPT](https://finetune.kymatalabs.com/p/shibing624-medicalgpt/) — RLHF & Preference
 - [calmrocks/ai-engineer-notebooks](https://finetune.kymatalabs.com/p/calmrocks-ai-engineer-notebooks/) — PEFT & LoRA
 - [kaito-project/aikit](https://finetune.kymatalabs.com/p/kaito-project-aikit/) — Fine-Tuning Tools
 - [vllm-project/vime](https://finetune.kymatalabs.com/p/vllm-project-vime/) — Training Frameworks
+- [shibing624/MedicalGPT](https://finetune.kymatalabs.com/p/shibing624-medicalgpt/) — RLHF & Preference
 - [Ta0p1/ResolveLab](https://finetune.kymatalabs.com/p/ta0p1-resolvelab/) — Fine-Tuning Tools
 - [wuwangzhang1216/abliterix](https://finetune.kymatalabs.com/p/wuwangzhang1216-abliterix/) — PEFT & LoRA
 
