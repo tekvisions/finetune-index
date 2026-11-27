@@ -335,6 +335,29 @@
           "blob_sha": "1e550815d1a6223c5fe50202e9f3a059e89dea9a"
         }
       ]
+    },
+    {
+      "slug": "dobriban-principles-of-ai-llms",
+      "entity": "dobriban/Principles-of-AI-LLMs",
+      "canonical_url": "https://finetune.kymatalabs.com/p/dobriban-principles-of-ai-llms/",
+      "repository": "https://github.com/dobriban/Principles-of-AI-LLMs",
+      "summary": "Publisher description of dobriban/Principles-of-AI-LLMs: Materials for the course Principles of AI: LLMs at UPenn (Stat 9911, Spring 2025). LLM architectures, training paradigms (pre- and post-training, alignment), test-time computation, reasoning, safety and robustness (jailbreaking, oversight, uncertainty), representations, interpretability (circuits), etc. The saved 2026-11-26 catalog classified it under RLHF & Preference.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for RLHF & Preference work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Automated dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-26T18:58:26.171340+00:00",
+      "reviewed_on": "2026-11-27",
+      "last_successful_source_commit": "244243c7c3b79342fdf5058089e78f7cca5b1046",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "upstream_status": "publisher source reachable (HTTP 200) on the 2026-11-27 automated check",
+      "primary_sources": [
+        {
+          "url": "https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "2f546717e33ca4108c20c0614f2f5dea6839264fffa5a6ae0fc68e1932d62630",
+          "blob_sha": "e382844e30e5a92c6c3be2b800f69153b2124780"
+        }
+      ],
+      "evidence_sha256": "2f546717e33ca4108c20c0614f2f5dea6839264fffa5a6ae0fc68e1932d62630"
     }
   ],
   "retirements": [],
